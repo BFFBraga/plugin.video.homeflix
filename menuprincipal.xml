@@ -1,0 +1,42 @@
+<xml version="1.0" encoding="UTF-8" standalone="yes">
+
+<dir>
+<name>[B][COLOR goldenrod]FILMES[/COLOR][/B]</name>
+<link>https://busying-partitions.000webhostapp.com/homeflix/filmes/0-home_filmes.xml</link>
+<thumbnail>https://busying-partitions.000webhostapp.com/imagens/filmes1.png</thumbnail>
+<fanart>https://busying-partitions.000webhostapp.com/imagens/fanart.jpg</fanart>
+<summary>Os melhores filmes, dublados e legendados para toda família</summary>
+</dir>
+
+<dir>
+<name>[B][COLOR goldenrod]SÉRIES[/COLOR][/B]</name>
+<link>https://busying-partitions.000webhostapp.com/homeflix/series/menuseries.xml</link>
+<thumbnail>https://busying-partitions.000webhostapp.com/imagens/series1.png</thumbnail>
+<fanart>https://busying-partitions.000webhostapp.com/imagens/fanart.jpg</fanart>
+<summary>As melhores séries, dubladas e legendadas para toda família</summary>
+</dir>
+
+<dir>
+<name>[B][COLOR goldenrod]ANIMES[/COLOR][/B]</name>
+<link>#</link>
+<thumbnail>https://busying-partitions.000webhostapp.com/imagens/animes.png</thumbnail>
+<fanart>https://busying-partitions.000webhostapp.com/imagens/fanart.jpg</fanart>
+<summary>Os melhores animes, dublados e legendados para toda família</summary>
+</dir>
+
+<plugin>
+<name>[B][COLOR goldenrod]PROCURAR[/COLOR][/B]</name>
+<link>plugin://plugin.video.homeflix/?action=search</link>
+<thumbnail>https://busying-partitions.000webhostapp.com/imagens/pesquisar.png</thumbnail>
+<fanart>https://busying-partitions.000webhostapp.com/imagens/fanart.jpg</fanart>
+<summary>Pesquise aqui seu filme ou série para assistir</summary> </plugin>
+
+<plugin>
+<name>[B][COLOR goldenrod]CONFIGURAÇÕES[/COLOR][/B]</name>
+<link>plugin://plugin.video.homeflix/?action=openSettings</link>
+<thumbnail>https://busying-partitions.000webhostapp.com/imagens/config.png</thumbnail>
+<fanart>https://busying-partitions.000webhostapp.com/imagens/fanart.jpg</fanart>
+<summary>Configurações do Addon HomeFlix</summary>
+</plugin>
+
+</xml>
