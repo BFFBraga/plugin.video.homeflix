@@ -9,7 +9,7 @@
 	<season>1</season>
 	<year>2013</year>
 	</meta>
-	<link>https://busying-partitions.000webhostapp.com/homeflix/series/vikings/vikings_temporada_01.xml</link>
+	<link>https://raw.githubusercontent.com/BFFBraga/plugin.video.homeflix/master/series/vikings/vikings-temporada-01.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/original/uZ6uqYduM77H37yQUNHxycZiGDp.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/original/dTmC2izgVxaGm7NpHYZwIR7B6hG.jpg</fanart>
 </dir>
@@ -24,7 +24,7 @@
 	<season>2</season>
 	<year>2014</year>
 	</meta>
-	<link>https://busying-partitions.000webhostapp.com/homeflix/series/vikings/vikings_temporada_02.xml</link>
+	<link>https://raw.githubusercontent.com/BFFBraga/plugin.video.homeflix/master/series/vikings/vikings-temporada-02.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/original/7yQS39aLDldCDnIlQS9PLst7YUE.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/original/dTmC2izgVxaGm7NpHYZwIR7B6hG.jpg</fanart>
 </dir>
@@ -39,7 +39,7 @@
 	<season>3</season>
 	<year>2015</year>
 	</meta>
-	<link>https://busying-partitions.000webhostapp.com/homeflix/series/vikings/vikings_temporada_03.xml</link>
+	<link>https://raw.githubusercontent.com/BFFBraga/plugin.video.homeflix/master/series/vikings/vikings-temporada-03.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/original/4Uxn08aBsbVZKkbysdbgLQVbYi3.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/original/dTmC2izgVxaGm7NpHYZwIR7B6hG.jpg</fanart>
 </dir>
@@ -54,7 +54,7 @@
 	<season>4</season>
 	<year>2016</year>
 	</meta>
-	<link>https://busying-partitions.000webhostapp.com/homeflix/series/vikings/vikings_temporada_04.xml</link>
+	<link>https://raw.githubusercontent.com/BFFBraga/plugin.video.homeflix/master/series/vikings/vikings-temporada-04.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/original/sLmjiFF1TZXJriguudQid9ZcSLN.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/original/dTmC2izgVxaGm7NpHYZwIR7B6hG.jpg</fanart>
 </dir>
@@ -69,7 +69,7 @@
 	<season>5</season>
 	<year>2018</year>
 	</meta>
-	<link>https://busying-partitions.000webhostapp.com/homeflix/series/vikings/vikings_temporada_05.xml</link>
+	<link>https://raw.githubusercontent.com/BFFBraga/plugin.video.homeflix/master/series/vikings/vikings-temporada-05.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/original/5oRTw0jFPg0YTWnYbYCkxJCmRex.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/original/dTmC2izgVxaGm7NpHYZwIR7B6hG.jpg</fanart>
 </dir>
