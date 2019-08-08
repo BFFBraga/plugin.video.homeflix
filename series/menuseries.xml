@@ -1,0 +1,73 @@
+<xml version="1.0" encoding="UTF-8" standalone="yes">
+
+<dir>
+	<title>[B][COLOR=goldenrod]12 Monkeys[/COLOR][/B]</title>
+	<meta>
+	<content>tvshow</content>
+	<imdb>tt3148266</imdb>
+	<tvdb>272644</tvdb>
+	<tvshowtitle>12 Monkeys</tvshowtitle>
+	<year>2015</year>
+	</meta>
+	<link>https://busying-partitions.000webhostapp.com/homeflix/series/12monkeys/menu_12monkeys.xml</link>
+	<thumbnail>https://goo.gl/uf1UKK</thumbnail>
+	<fanart>https://goo.gl/xv6IUo</fanart>
+</dir>
+
+<dir>
+	<title>[B][COLOR=goldenrod]The 100[/COLOR][/B]</title>
+	<meta>
+	<content>tvshow</content>
+	<imdb>tt2661044</imdb>
+	<tvdb>268592</tvdb>
+	<tvshowtitle>The 100</tvshowtitle>
+	<year>2014</year>
+	</meta>
+	<link>https://busying-partitions.000webhostapp.com/homeflix/series/the-100/menu_the100.xml</link>
+	<thumbnail>https://goo.gl/Cfw2Gq</thumbnail>
+	<fanart>https://goo.gl/cVdJGP</fanart>
+</dir>
+
+<dir>
+<title>[B][COLOR=goldenrod]The Expanse[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt3230854</imdb>
+	<tvdb>280619</tvdb>
+	<content>tvshow</content>
+	<tvshowtitle>The Expanse</tvshowtitle>
+	<year>2015</year>
+	</meta>
+	<link>https://busying-partitions.000webhostapp.com/homeflix/series/the-expanse/menu_the_expanse.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/prJFWxJ0x8tBPTliMjj51wgYnSK.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/beIjmWr3OBOtcWK4tKMObOIDJ1C.jpg</fanart>
+</dir>
+
+<dir>
+	<title>[B][COLOR=goldenrod]Game Of Thrones[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt0944947</imdb>
+	<tvdb>121361</tvdb>
+	<content>tvshow</content>
+	<tvshowtitle>Game Of Thrones</tvshowtitle>
+	<year>2011</year>
+	</meta>
+	<link>https://busying-partitions.000webhostapp.com/homeflix/series/game-of-thrones/menu_game_of_thrones.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/gwPSoYUHAKmdyVywgLpKKA4BjRr.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/2UrGpntyQtgunf039MErok78ZOK.jpg</fanart>
+</dir>
+
+<dir>
+	<title>[B][COLOR=goldenrod]Vikings[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt2306299</imdb>
+	<tvdb>260449</tvdb>
+	<content>tvshow</content>
+	<title>Vikings</title>
+	<year>2013</year>
+	</meta>
+	<link>https://busying-partitions.000webhostapp.com/homeflix/series/vikings/menu_vikings.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/oktTNFM8PzdseiK1X0E0XhB6LvP.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/A30ZqEoDbchvE7mCZcSp6TEwB1Q.jpg</fanart>
+</dir>
+
+</xml>
