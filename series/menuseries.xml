@@ -9,7 +9,7 @@
 	<tvshowtitle>12 Monkeys</tvshowtitle>
 	<year>2015</year>
 	</meta>
-	<link>https://raw.githubusercontent.com/BFFBraga/homeflix/master/series/12-monkeys/menu-12monkeys.xml</link>
+	<link>https://raw.githubusercontent.com/BFFBraga/plugin.video.homeflix/master/series/12-monkeys/menu-12monkeys.xml</link>
 	<thumbnail>https://goo.gl/uf1UKK</thumbnail>
 	<fanart>https://goo.gl/xv6IUo</fanart>
 </dir>
@@ -23,7 +23,7 @@
 	<tvshowtitle>The 100</tvshowtitle>
 	<year>2014</year>
 	</meta>
-	<link>https://raw.githubusercontent.com/BFFBraga/homeflix/master/series/the-100/menu-the100.xml</link>
+	<link>https://raw.githubusercontent.com/BFFBraga/plugin.video.homeflix/master/series/the-100/menu-the100.xml</link>
 	<thumbnail>https://goo.gl/Cfw2Gq</thumbnail>
 	<fanart>https://goo.gl/cVdJGP</fanart>
 </dir>
@@ -37,7 +37,7 @@
 	<tvshowtitle>The Expanse</tvshowtitle>
 	<year>2015</year>
 	</meta>
-	<link>https://raw.githubusercontent.com/BFFBraga/homeflix/master/series/the-expanse/menu-the-expanse.xml</link>
+	<link>https://raw.githubusercontent.com/BFFBraga/plugin.video.homeflix/master/series/the-expanse/menu-the-expanse.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/prJFWxJ0x8tBPTliMjj51wgYnSK.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/beIjmWr3OBOtcWK4tKMObOIDJ1C.jpg</fanart>
 </dir>
@@ -51,7 +51,7 @@
 	<tvshowtitle>Game Of Thrones</tvshowtitle>
 	<year>2011</year>
 	</meta>
-	<link>https://raw.githubusercontent.com/BFFBraga/homeflix/master/series/game-of-thrones/menu_game_of_thrones.xml</link>
+	<link>https://raw.githubusercontent.com/BFFBraga/plugin.video.homeflix/master/series/game-of-thrones/menu_game_of_thrones.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/gwPSoYUHAKmdyVywgLpKKA4BjRr.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/original/2UrGpntyQtgunf039MErok78ZOK.jpg</fanart>
 </dir>
@@ -65,7 +65,7 @@
 	<title>Vikings</title>
 	<year>2013</year>
 	</meta>
-	<link>https://raw.githubusercontent.com/BFFBraga/homeflix/master/series/vikings/menu-vikings.xml</link>
+	<link>https://raw.githubusercontent.com/BFFBraga/plugin.video.homeflix/master/series/vikings/menu-vikings.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/oktTNFM8PzdseiK1X0E0XhB6LvP.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/A30ZqEoDbchvE7mCZcSp6TEwB1Q.jpg</fanart>
 </dir>
