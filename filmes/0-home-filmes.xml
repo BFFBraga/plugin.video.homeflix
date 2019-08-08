@@ -9,14 +9,14 @@
 
 <dir>
 <name>[B][COLOR goldenrod]TODOS OS FILMES[/COLOR][/B]</name>
-<link>https://raw.githubusercontent.com/BFFBraga/homeflix/master/filmes/1-filmes-geral.xml</link>
+<link>https://raw.githubusercontent.com/BFFBraga/plugin.video.homeflix/master/filmes/1-filmes-geral.xml</link>
 <thumbnail>https://busying-partitions.000webhostapp.com/imagens/todos-filmes1.png</thumbnail>
 <fanart>https://busying-partitions.000webhostapp.com/imagens/fanart.jpg</fanart>
 </dir>
 
 <dir>
 <name>[B][COLOR goldenrod]LANÇAMENTOS[/COLOR][/B]</name>
-<link>https://raw.githubusercontent.com/BFFBraga/homeflix/master/filmes/2-lancamentos.xml</link>
+<link>https://raw.githubusercontent.com/BFFBraga/plugin.video.homeflix/master/filmes/2-lancamentos.xml</link>
 <thumbnail>https://busying-partitions.000webhostapp.com/imagens/lancamentos1.png</thumbnail>
 <fanart>https://busying-partitions.000webhostapp.com/imagens/fanart.jpg</fanart>
 </dir>
