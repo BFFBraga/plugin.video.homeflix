@@ -2,7 +2,7 @@
 
 <dir>
 <name>[B][COLOR goldenrod]FILMES[/COLOR][/B]</name>
-<link>https://busying-partitions.000webhostapp.com/homeflix/filmes/0-home_filmes.xml</link>
+<link>https://raw.githubusercontent.com/BFFBraga/homeflix/master/filmes/0-home-filmes.xml</link>
 <thumbnail>https://busying-partitions.000webhostapp.com/imagens/filmes1.png</thumbnail>
 <fanart>https://busying-partitions.000webhostapp.com/imagens/fanart.jpg</fanart>
 <summary>Os melhores filmes, dublados e legendados para toda família</summary>
@@ -10,7 +10,7 @@
 
 <dir>
 <name>[B][COLOR goldenrod]SÉRIES[/COLOR][/B]</name>
-<link>https://busying-partitions.000webhostapp.com/homeflix/series/menuseries.xml</link>
+<link>https://raw.githubusercontent.com/BFFBraga/homeflix/master/series/menuseries.xml</link>
 <thumbnail>https://busying-partitions.000webhostapp.com/imagens/series1.png</thumbnail>
 <fanart>https://busying-partitions.000webhostapp.com/imagens/fanart.jpg</fanart>
 <summary>As melhores séries, dubladas e legendadas para toda família</summary>
