@@ -1,18 +1,99 @@
-<item>
-        <title>[COLOR goldenrod]Baywatch[/COLOR] [COLOR white](2017)[/COLOR]</title>
-        <meta>
-                <content>movie</content>
-                <imdb></imdb>
-                <title>Baywatch</title>
-                <year>2017</year>
-        </meta>
-        <link>
-                <sublink>http://zeus.netcine.tv/httpdelivery/filmes2017/BAYWATCHLEG-ALTO.mp4</sublink>
-                <sublink>http://s.mmfilmes.com/mm/filmes/baywatch-leg-1080p.mp4</sublink>
-				<sublink>http://s.mmfilmes.com/mm/filmes/baywatch-leg-1080p.mp4</sublink>
-        </link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://goo.gl/oG41zi</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart>https://goo.gl/L6JTkF</fanart>
+<xml version="1.0" encoding="UTF-8" standalone="yes">
+
+<item>
+	<title>[B][COLOR=goldenrod]Vingadores: Ultimato[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt4154796</imdb>
+	<content>movie</content>
+	<title>Avengers: Endgame</title>
+	<year>2019</year>
+	</meta>
+	<link>
+	<sublink>https://lh3.googleusercontent.com/PwmTDFTlk6Ra-ns4rtk2B_IW4_LQ_6OY4v2P4IpYywDhP9-2vvjs1MS0Q5Kg5a1JhxEkgdBGBoPSw3FcVIGO9a18cJOGUbQioYFX5_YJWi0SO4zBWZVRfHe7swuZ-0D6IJ-H4yGT=m37([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>https://drive.google.com/file/d/1DO9xvCj6IA18uKlDmjOJ9m-4Z6siUh8S/preview([B][COLOR white]LEGENDADO[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/original/q6725aR8Zs4IwGMXzZT8aC8lh41.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/orjiB3oUIsyz60hoEqkiGpy5CeO.jpg</fanart>
 </item>
+
+<item>
+	<title>[B][COLOR=goldenrod]Pokémon: Detetive Pikachu[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt5884052</imdb>
+	<content>movie</content>
+	<title>Pokémon Detective Pikachu</title>
+	<year>2019</year>
+	</meta>
+	<link>
+	<sublink>([B][COLOR red]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>https://drive.google.com/file/d/1A15O6_75izAcKMKaC78F58LH427KVmt1/preview([B][COLOR white]LEGENDADO[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/original/lHwEhsUaB9D0gXO6M08H5tdb2Vx.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/nDP33LmQwNsnPv29GQazz59HjJI.jpg</fanart>
+</item>
+
+<item>
+	<title>[B][COLOR=goldenrod]Capitã Marvel[/COLOR][/B]</title>
+	<meta>
+	<imdb></imdb>
+	<content>movie</content>
+	<title>Captain Marvel</title>
+	<year>2019</year>
+	</meta>
+	<link>
+	<sublink>([B][COLOR red]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>https://lh3.googleusercontent.com/lXKjTlfWK2AyXIiKUG2nr2v-HPtV3wo4f2Pf-3jeDwuTT_lc7Tce5j-TpXwptaA3O7yCoobYB0yxPYozviYvE8krEQt9N1et1b2wgTRfUvQlRMHUhmLlXJJ9XAm8Ili8sXoRRbOSOg=m37([B][COLOR white]LEGENDADO[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/original/hVgLHgnsO46oSHJy5I4ekhqtoYv.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/10csMIye4Vmr5lJpx3cdmMN8FOT.jpg</fanart>
+</item>
+
+<item>
+	<title>[B][COLOR=goldenrod]WiFi Ralph: Quebrando a Internet[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt5848272</imdb>
+	<content>movie</content>
+	<title>Ralph Breaks the Internet</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://lh3.googleusercontent.com/sAXDtsmcPRmqRDBj7_eobGJ2d7SWlC3LD4qlcUp1MY_RewGGpO2yzAz_RYGhjY5j2KuYd291L1Qw3gdIn58tTW-y9ZoQa1SSGmmikfSYkRhOapTvI7lF_jNaRJkOQVA9ihdeDuVI=m37([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>https://lh3.googleusercontent.com/xqH4vPjOOrEQoWT1JLtds_Vx7Pu4o91fz7lUZBdjriVlmaHhCGqQRZv18Afi55yBE2yX2cMsf1mCuP7_eCLXitMMsfx7yPKV9w8MrOWeiq95w3WCtPkGQXOpRVJ5AUZSfl5iUHAL=m37([B][COLOR withe]LEGENDADO[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/original/8aaXBBT5Hwo7Oab8wyNyoN7z7mg.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/x4W3fxK0Fes8WgVZcuJP8EoYKX2.jpg</fanart>
+</item>
+
+<item>
+	<title>[B][COLOR=goldenrod]Máquinas Mortais[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt1571234</imdb>
+	<content>movie</content>
+	<title>Mortal Engines</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://lh3.googleusercontent.com/GEIvS7VLy4BUpsKgjg6kcygg9TacAMp4BA9KmpcplkSR4X6zhmhHnxQNRUCSRIhCirgHm0gGXfJ6i2BjZjVYtJcKK11gyQ-ga7bmupwzHShEP7-XVdFL31vtSBPU8jlD7otdHMnG=m37([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>https://lh3.googleusercontent.com/vQ-QHpAs10NqItIB-9ZZy5lx1s0rc8Ps0SXZI9R2YfFVMkYIPkWB9aUcktobSl-EZCFe5DKFih6g8FWG6XldVBCl2T9-loH1VE1_Nq7SAJAvTpRD2FjUbx9r3uSfLbcMUHXNR7Jl=m37([B][COLOR white]LEGENDADO[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/original/sBdtAsZNVPMOOYcq8zh0XULqU9T.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/jnOuttTfG9KKpmOZtprC4pA1AlZ.jpg</fanart>
+</item>
+
+<item>
+	<title>[B][COLOR=goldenrod]Bumblebee[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt4701182</imdb>
+	<content>movie</content>
+	<title>Bumblebee</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]LEGENDADO[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/original/fw02ONlDhrYjTSZV8XO6hhU3ds3.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/17nDJQsGVim6oows2TlN98UacbO.jpg</fanart>
+</item>
+
+</xml>
