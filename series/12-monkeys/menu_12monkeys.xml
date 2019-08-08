@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<dir>
+<name>Temporada 1</name>
+<meta>
+<content>season</content>
+<imdb>tt3148266</imdb>
+<tvdb>591220</tvdb>
+<tvshowtitle>12 Monkeys</tvshowtitle>
+<year>2015</year>
+<season>1</season>
+</meta>
+<link>https://busying-partitions.000webhostapp.com/homeflix/series/12monkeys/temporada-01.xml</link>
+<thumbnail>https://goo.gl/N9WUrE</thumbnail>
+<fanart>https://goo.gl/xv6IUo</fanart>
+</dir>
+
+<dir>
+<name>Temporada 2</name>
+<meta>
+<content>season</content>
+<imdb>tt3148266</imdb>
+<tvdb>623855</tvdb>
+<tvshowtitle>12 Monkeys</tvshowtitle>
+<year>2016</year>
+<season>2</season>
+</meta>
+<link>https://busying-partitions.000webhostapp.com/homeflix/series/12monkeys/temporada-02.xml</link>
+<thumbnail>https://goo.gl/ZbKZ1Q</thumbnail>
+<fanart>https://goo.gl/xv6IUo</fanart>
+</dir>
+
+<dir>
+<name>Temporada 3</name>
+<meta>
+<content>season</content>
+<imdb>tt3148266</imdb>
+<tvdb>679637</tvdb>
+<tvshowtitle>12 Monkeys</tvshowtitle>
+<year>2017</year>
+<season>3</season>
+</meta>
+<link>https://busying-partitions.000webhostapp.com/homeflix/series/12monkeys/temporada-03.xml</link>
+<thumbnail>https://goo.gl/Mt9hp3</thumbnail>
+<fanart>https://goo.gl/xv6IUo</fanart>
+</dir>
+
+<dir>
+<name>Temporada 4</name>
+<meta>
+<content>season</content>
+<imdb>tt3148266</imdb>
+<tvdb>272644</tvdb>
+<tvshowtitle>12 Monkeys</tvshowtitle>
+<year>2017</year>
+<season>4</season>
+</meta>
+<link>https://busying-partitions.000webhostapp.com/homeflix/series/12monkeys/temporada-04.xml</link>
+<thumbnail>https://goo.gl/E9iYDJ</thumbnail>
+<fanart>https://goo.gl/xv6IUo</fanart>
+</dir>
+
+</xml>
