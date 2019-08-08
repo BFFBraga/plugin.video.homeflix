@@ -51,7 +51,7 @@
 	<tvshowtitle>Game Of Thrones</tvshowtitle>
 	<year>2011</year>
 	</meta>
-	<link>https://raw.githubusercontent.com/BFFBraga/plugin.video.homeflix/master/series/game-of-thrones/menu_game_of_thrones.xml</link>
+	<link>https://raw.githubusercontent.com/BFFBraga/plugin.video.homeflix/master/series/game-of-thrones/menu-game-of-thrones.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/gwPSoYUHAKmdyVywgLpKKA4BjRr.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/original/2UrGpntyQtgunf039MErok78ZOK.jpg</fanart>
 </dir>
