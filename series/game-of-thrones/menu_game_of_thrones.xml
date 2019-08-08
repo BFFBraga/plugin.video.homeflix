@@ -1,5 +1,106 @@
-<xml><dir>	<title>Temporada 1</title>	<meta>	<imdb>tt0944947</imdb>	<tvdb>121361</tvdb>	<tvshowtitle>Game Of Thrones</tvshowtitle>	<content>season</content>	<season>1</season>	<year>2011</year>	</meta>	<link>https://busying-partitions.000webhostapp.com/homeflix/series/game-of-thrones/got_temporada_01.xml</link>	<thumbnail>https://image.tmdb.org/t/p/original/7C2Fm2xi8DVJif2TtEKnbVtFJms.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/original/2UrGpntyQtgunf039MErok78ZOK.jpg</fanart></dir><dir>	<title>Temporada 2</title>	<meta>	<imdb>tt0944947</imdb>	<tvdb>121361</tvdb>	<tvshowtitle>Game Of Thrones</tvshowtitle>	<content>season</content>	<season>2</season>	<year>2012</year>	</meta>	<link>https://busying-partitions.000webhostapp.com/homeflix/series/game-of-thrones/got_temporada_02.xml</link>	<thumbnail>https://image.tmdb.org/t/p/original/bCTs5LNJ8HICvEdB8neDeEt3y5A.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/original/2UrGpntyQtgunf039MErok78ZOK.jpg</fanart></dir>
-<dir>	<title>Temporada 3</title>	<meta>	<imdb>tt0944947</imdb>	<tvdb>121361</tvdb>	<tvshowtitle>Game Of Thrones</tvshowtitle>	<content>season</content>	<season>3</season>	<year>2013</year>	</meta>	<link>https://busying-partitions.000webhostapp.com/homeflix/series/game-of-thrones/got_temporada_03.xml</link>	<thumbnail>https://image.tmdb.org/t/p/original/yHiQtcvzhh0rCafLEY1tz6WyZc7.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/original/2UrGpntyQtgunf039MErok78ZOK.jpg</fanart></dir>
-<dir>	<title>Temporada 4</title>	<meta>	<imdb>tt0944947</imdb>	<tvdb>121361</tvdb>	<tvshowtitle>Game Of Thrones</tvshowtitle>	<content>season</content>	<season>4</season>	<year>2014</year>	</meta>	<link>https://busying-partitions.000webhostapp.com/homeflix/series/game-of-thrones/got_temporada_04.xml</link>	<thumbnail>https://image.tmdb.org/t/p/original/rE6Tusn5aHCJdzpPkTU5nv7hRJa.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/original/2UrGpntyQtgunf039MErok78ZOK.jpg</fanart></dir><dir>	<title>Temporada 5</title>	<meta>	<imdb>tt0944947</imdb>	<tvdb>121361</tvdb>	<tvshowtitle>Game Of Thrones</tvshowtitle>	<content>season</content>	<season>2015</season>	<year>5</year>	</meta>	<link>https://busying-partitions.000webhostapp.com/homeflix/series/game-of-thrones/got_temporada_05.xml</link>	<thumbnail>https://image.tmdb.org/t/p/original/hYHFsnHNrcfFdbAETnV9gnDofkk.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/original/2UrGpntyQtgunf039MErok78ZOK.jpg</fanart></dir>
-<dir>	<title>Temporada 6</title>	<meta>	<imdb>tt0944947</imdb>	<tvdb>121361</tvdb>	<tvshowtitle>Game Of Thrones</tvshowtitle>	<content>season</content>	<season>6</season>	<year>2016</year>	</meta>	<link>https://busying-partitions.000webhostapp.com/homeflix/series/game-of-thrones/got_temporada_06.xml</link>	<thumbnail>https://image.tmdb.org/t/p/original/mZ2XFP8HfVizuwGCSPjNZ4h458O.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/original/2UrGpntyQtgunf039MErok78ZOK.jpg</fanart></dir>
-<dir>	<title>Temporada 7</title>	<meta>	<imdb>tt0944947</imdb>	<tvdb>121361</tvdb>	<tvshowtitle>Game Of Thrones</tvshowtitle>	<content>season</content>	<season>7</season>	<year>2017</year>	</meta>	<link>https://busying-partitions.000webhostapp.com/homeflix/series/game-of-thrones/got_temporada_07.xml</link>	<thumbnail>https://image.tmdb.org/t/p/original/m6KZeo0JZ7Tor5SvS8UJf3lvjL4.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/original/2UrGpntyQtgunf039MErok78ZOK.jpg</fanart></dir></xml>
+<xml version="1.0" encoding="UTF-8" standalone="yes">
+<dir>
+	<title>Temporada 1</title>
+	<meta>
+	<imdb>tt0944947</imdb>
+	<tvdb>121361</tvdb>
+	<tvshowtitle>Game Of Thrones</tvshowtitle>
+	<content>season</content>
+	<season>1</season>
+	<year>2011</year>
+	</meta>
+	<link>https://busying-partitions.000webhostapp.com/homeflix/series/game-of-thrones/got_temporada_01.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/original/7C2Fm2xi8DVJif2TtEKnbVtFJms.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/2UrGpntyQtgunf039MErok78ZOK.jpg</fanart>
+</dir>
+
+<dir>
+	<title>Temporada 2</title>
+	<meta>
+	<imdb>tt0944947</imdb>
+	<tvdb>121361</tvdb>
+	<tvshowtitle>Game Of Thrones</tvshowtitle>
+	<content>season</content>
+	<season>2</season>
+	<year>2012</year>
+	</meta>
+	<link>https://busying-partitions.000webhostapp.com/homeflix/series/game-of-thrones/got_temporada_02.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/original/bCTs5LNJ8HICvEdB8neDeEt3y5A.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/2UrGpntyQtgunf039MErok78ZOK.jpg</fanart>
+</dir>
+
+<dir>
+	<title>Temporada 3</title>
+	<meta>
+	<imdb>tt0944947</imdb>
+	<tvdb>121361</tvdb>
+	<tvshowtitle>Game Of Thrones</tvshowtitle>
+	<content>season</content>
+	<season>3</season>
+	<year>2013</year>
+	</meta>
+	<link>https://busying-partitions.000webhostapp.com/homeflix/series/game-of-thrones/got_temporada_03.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/original/yHiQtcvzhh0rCafLEY1tz6WyZc7.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/2UrGpntyQtgunf039MErok78ZOK.jpg</fanart>
+</dir>
+
+<dir>
+	<title>Temporada 4</title>
+	<meta>
+	<imdb>tt0944947</imdb>
+	<tvdb>121361</tvdb>
+	<tvshowtitle>Game Of Thrones</tvshowtitle>
+	<content>season</content>
+	<season>4</season>
+	<year>2014</year>
+	</meta>
+	<link>https://busying-partitions.000webhostapp.com/homeflix/series/game-of-thrones/got_temporada_04.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/original/rE6Tusn5aHCJdzpPkTU5nv7hRJa.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/2UrGpntyQtgunf039MErok78ZOK.jpg</fanart>
+</dir>
+
+<dir>
+	<title>Temporada 5</title>
+	<meta>
+	<imdb>tt0944947</imdb>
+	<tvdb>121361</tvdb>
+	<tvshowtitle>Game Of Thrones</tvshowtitle>
+	<content>season</content>
+	<season>2015</season>
+	<year>5</year>
+	</meta>
+	<link>https://busying-partitions.000webhostapp.com/homeflix/series/game-of-thrones/got_temporada_05.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/original/hYHFsnHNrcfFdbAETnV9gnDofkk.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/2UrGpntyQtgunf039MErok78ZOK.jpg</fanart>
+</dir>
+
+<dir>
+	<title>Temporada 6</title>
+	<meta>
+	<imdb>tt0944947</imdb>
+	<tvdb>121361</tvdb>
+	<tvshowtitle>Game Of Thrones</tvshowtitle>
+	<content>season</content>
+	<season>6</season>
+	<year>2016</year>
+	</meta>
+	<link>https://busying-partitions.000webhostapp.com/homeflix/series/game-of-thrones/got_temporada_06.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/original/mZ2XFP8HfVizuwGCSPjNZ4h458O.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/2UrGpntyQtgunf039MErok78ZOK.jpg</fanart>
+</dir>
+
+<dir>
+	<title>Temporada 7</title>
+	<meta>
+	<imdb>tt0944947</imdb>
+	<tvdb>121361</tvdb>
+	<tvshowtitle>Game Of Thrones</tvshowtitle>
+	<content>season</content>
+	<season>7</season>
+	<year>2017</year>
+	</meta>
+	<link>https://busying-partitions.000webhostapp.com/homeflix/series/game-of-thrones/got_temporada_07.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/original/m6KZeo0JZ7Tor5SvS8UJf3lvjL4.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/2UrGpntyQtgunf039MErok78ZOK.jpg</fanart>
+</dir>
+</xml>
