@@ -1,6 +1,22 @@
 <xml version="1.0" encoding="UTF-8" standalone="yes">
 
 <item>
+	<title>[B][COLOR=goldenrod]Aladdin[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt6139732</imdb>
+	<content>movie</content>
+	<title>Aladdin</title>
+	<year>2019</year>
+	</meta>
+	<link>
+	<sublink>([B][COLOR red]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>https://lh3.googleusercontent.com/_cVYfo3hZ48pPJGpi_0mAGxWxKMVAm4fLjcyDniU-tD0ALipbnL6S4Zm7FygkT78i8I_kje36zTggY7Bs4HF-bJjjFDbHo2msKx8wNeBG_BslQFKm2jsfUWYa21WMzM8SbmAN-VTcg=m37([B][COLOR white]LEGENDADO[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/original/cYlzLYlhUXS0kW9T3ttAQ6fvZuV.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/v4yVTbbl8dE1UP2dWu5CLyaXOku.jpg</fanart>
+</item>
+
+<item>
 	<title>[B][COLOR=goldenrod]Vingadores: Ultimato[/COLOR][/B]</title>
 	<meta>
 	<imdb>tt4154796</imdb>
@@ -35,7 +51,7 @@
 <item>
 	<title>[B][COLOR=goldenrod]Capitã Marvel[/COLOR][/B]</title>
 	<meta>
-	<imdb></imdb>
+	<imdb>tt4154664</imdb>
 	<content>movie</content>
 	<title>Captain Marvel</title>
 	<year>2019</year>
@@ -89,11 +105,10 @@
 	<year>2018</year>
 	</meta>
 	<link>
-	<sublink>([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>https://drive.google.com/file/d/1J2Y_szgu4V_neLq1p7I4Mt781LuCxoEL/preview([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
 	<sublink>([B][COLOR white]LEGENDADO[/COLOR][/B])</sublink>
 	</link>
 	<thumbnail>https://image.tmdb.org/t/p/original/fw02ONlDhrYjTSZV8XO6hhU3ds3.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/original/17nDJQsGVim6oows2TlN98UacbO.jpg</fanart>
 </item>
-
 </xml>
