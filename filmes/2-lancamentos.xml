@@ -1,6 +1,22 @@
 <xml version="1.0" encoding="UTF-8" standalone="yes">
 
 <item>
+	<title>[B][COLOR=goldenrod]Aladdin[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt6139732</imdb>
+	<content>movie</content>
+	<title>Aladdin</title>
+	<year>2019</year>
+	</meta>
+	<link>
+	<sublink>([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]LEGENDADO[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/original/cYlzLYlhUXS0kW9T3ttAQ6fvZuV.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/v4yVTbbl8dE1UP2dWu5CLyaXOku.jpg</fanart>
+</item>
+
+<item>
 	<title>[B][COLOR=goldenrod]Vingadores: Ultimato[/COLOR][/B]</title>
 	<meta>
 	<imdb>tt4154796</imdb>

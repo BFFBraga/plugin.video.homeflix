@@ -1,0 +1,852 @@
+<xml version="1.0" encoding="UTF-8" standalone="yes"><item>	<title>[B][COLOR=goldenrod]Bumblebee[/COLOR][/B]</title>	<meta>	<imdb>tt4701182</imdb>	<content>movie</content>	<title>Bumblebee</title>	<year>2018</year>	</meta>	<link>	<sublink>https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer2/ondemand/BUMBLE.mp4([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>	<sublink>https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer2/ondemand/BUMBLELEG.mp4([B][COLOR white]LEGENDADO[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/original/fw02ONlDhrYjTSZV8XO6hhU3ds3.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/original/17nDJQsGVim6oows2TlN98UacbO.jpg</fanart></item><item>	<title>[B][COLOR=goldenrod]Máquinas Mortais[/COLOR][/B]</title>	<meta>	<imdb>tt1571234</imdb>	<content>movie</content>	<title>Máquinas Mortais</title>	<year>2018</year>	</meta>	<link>	<sublink>https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer2/ondemand/MAQNSMRTS.mp4([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>	<sublink>([B][COLOR white]LEGENDADO[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/original/sBdtAsZNVPMOOYcq8zh0XULqU9T.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/original/jnOuttTfG9KKpmOZtprC4pA1AlZ.jpg</fanart></item><item>	<title>[B][COLOR=goldenrod]WiFi Ralph: Quebrando a Internet[/COLOR][/B]</title>	<meta>	<imdb>tt5848272</imdb>	<content>movie</content>	<title>Ralph Breaks the Internet</title>	<year>2018</year>	</meta>	<link>	<sublink>https://d25ror3f4nxik2.cloudfront.net/RedeCanais/RCFServer2/ondemand/WIFIRLPHQBRNDOAINTNET.mp4([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>	<sublink>([B][COLOR red]LEGENDADO[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/original/8aaXBBT5Hwo7Oab8wyNyoN7z7mg.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/original/x4W3fxK0Fes8WgVZcuJP8EoYKX2.jpg</fanart></item>
+<item>	<title>[B][COLOR=goldenrod]Venom[/COLOR][/B]</title>	<meta>	<imdb>tt1270797</imdb>	<content>movie</content>	<title>Venom</title>	<year>2018</year>	</meta>	<link>	<sublink>([B][COLOR white]DUBLADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/w1280/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/6Waqm8RAFUmqGBwvHRm9dkxzetM.jpg</fanart></item>
+<item>	<title>[B][COLOR=goldenrod]A Freira[/COLOR][/B]</title>	<meta>	<imdb>tt5814060</imdb>	<content>movie</content>	<title>A Freira</title>	<year>2018</year>	</meta>	<link>	<sublink>https://my.mail.ru/video/embed/8993950066611847209([B][COLOR white]DUBLADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	<sublink>https://drive.google.com/file/d/1cPrOsPAoFtZiTHDQqVgybjNhDYcBkM2p/preview([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/w1280/aSUjFusBt4AWgBbDFBR0JiMN53a.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/tfKxFPq4lel0bL80H0C6kGYKGEq.jpg</fanart></item><item>	<title>[B][COLOR=goldenrod]Alfa[/COLOR][/B]</title>	<meta>	<imdb>tt4244998</imdb>	<content>movie</content>	<title>Alfa</title>	<year>2018</year>	</meta>	<link>	<sublink>([B][COLOR white]DUBLADO[/COLOR][/B] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/w1280/pOTYsL5bGrNoUlStI9Q2AEuO27s.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/efh8czbTqrz9St2bnNL8lit2klF.jpg</fanart>
+</item>
+<item>	<title>[B][COLOR=goldenrod]Slender Man: Pesadelo Sem Rosto[/COLOR][/B]</title>	<meta>	<imdb>tt5690360</imdb>	<content>movie</content>	<title>Slender Man: Pesadelo Sem Rosto</title>	<year>2018</year>	</meta>	<link>	<sublink>([B][COLOR white]DUBLADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/w1280/vljb4mkrNNFNUoy4eSHhIvBR8aG.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/5K0fgMaJSdEvqSsS8e3Ez4TpvXR.jpg</fanart></item>
+<item>	<title>[B][COLOR=goldenrod]Megatubarão[/COLOR][/B]</title>	<meta>	<imdb>tt4779682</imdb>	<content>movie</content>	<title>Megatubarão</title>	<year>2018</year>	</meta>	<link>	<sublink>([B][COLOR white]DUBLADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/w1280/kWw4mbPZaCZgXsdbwdDnrRrgpk4.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/ibKeXahq4JD63z6uWQphqoJLvNw.jpg</fanart></item>
+<item>	<title>[B][COLOR=goldenrod]Tal Pai, Tal Filha[/COLOR][/B]</title>	<meta>	<imdb>tt7170950</imdb>	<content>movie</content>	<title>Tal Pai, Tal Filha</title>	<year>2018</year>	</meta>	<link>	<sublink>https://cometa.top/player3/serverf4player.php?vid=TALPAITALFHLA([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/w1280/myIqVgGUEgIMFdD752azAak8rQ3.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/pDQvWtaF4ujUooN4lojronauIFU.jpg</fanart></item>
+<item>	<title>[B][COLOR=goldenrod]Mentes Sombrias[/COLOR][/B]</title>	<meta>	<imdb>tt4073790</imdb>	<content>movie</content>	<title>Mentes Sombrias</title>	<year>2018</year>	</meta>	<link>	<sublink>([B][COLOR white]DUBLADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/w1280/v8q1ZJEiQ9JOOl583taFyRDRurq.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/5BxrMNGl3YDiWgHCVJu8iLQoJDM.jpg</fanart></item>
+<item>	<title>[B][COLOR=goldenrod]Christopher Robin: Um Reencontro Inesquecível[/COLOR][/B]</title>	<meta>	<imdb>tt4575576</imdb>	<content>movie</content>	<title>Christopher Robin: Um Reencontro Inesquecível</title>	<year>2018</year>	</meta>	<link>	<sublink>([B][COLOR white]DUBLADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/original/pZOyCHRed7U6hFGC2h7ASRF6Ih9.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/uDt8bQ4lGVlabEx5Gl2cPzvy6qz.jpg</fanart></item>
+<item>	<title>[B][COLOR=goldenrod]Meu Ex é um Espião[/COLOR][/B]</title>	<meta>	<imdb>tt6663582</imdb>	<content>movie</content>	<title>Meu Ex é um Espião</title>	<year>2018</year>	</meta>	<link>	<sublink>([B][COLOR white]DUBLADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/w1280/1S6446BRhe6Wm4E1qlgnqSHahkI.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/aElOwZ4GFk6gIRzjGtw0loESQqg.jpg</fanart></item>
+<item>	<title>[B][COLOR=goldenrod]Extinção[/COLOR][/B]</title>	<meta>	<imdb>tt3201640</imdb>	<content>movie</content>	<title>Extinção</title>	<year>2018</year>	</meta>	<link>	<sublink>https://cometa.top/player3/serverf4player.php?vid=EXTNCAO([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/w1280/9nPnDDPrSgMw7TUrYShiZ3Ud07.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/y1sCuzGoZLyLF6MJYBV9ToYWn1O.jpg</fanart></item>
+<item>	<title>[B][COLOR=goldenrod]Missão: Impossível - Efeito Fallout[/COLOR][/B]</title>	<meta>	<imdb>tt4912910</imdb>	<content>movie</content>	<title>Missão: Impossível - Efeito Fallout</title>	<year>2018</year>	</meta>	<link>	<sublink>([B][COLOR white]DUBLADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/w1280/kVv60GGRuh3kF6KI5Hn2T7QWWx0.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/5qxePyMYDisLe8rJiBYX8HKEyv2.jpg</fanart></item>
+<item>	<title>[B][COLOR=goldenrod]LEGO DC Comics Super Heróis: Aquaman – A Fúria de Atlântida[/COLOR][/B]</title>	<meta>	<imdb>tt8457394</imdb>	<content>movie</content>	<title>LEGO DC Comics Super Heróis: Aquaman – A Fúria de Atlântida</title>	<year>2018</year>	</meta>	<link>	<sublink>https://cometa.top/player3/serverf4player.php?vid=LGODCAQMNAFRDATLNDA([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/w1280/dcNbV993Yd7Ksk5QWF0KfyQof6.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/qjLY1kpt00nPh20jd8W6dYQ00us.jpg</fanart></item>
+<item>	<title>[B][COLOR=goldenrod]Pai do Ano[/COLOR][/B]</title>	<meta>	<imdb>tt7256866</imdb>	<content>movie</content>	<title>Pai do Ano</title>	<year>2018</year>	</meta>	<link>	<sublink>https://cometa.top/player3/serverf4player.php?vid=PAIDANO([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>	<sublink>https://drive.google.com/file/d/1dakDQ4rOl1Ypnpq4CQLRM9D3LggJ7zNA/preview([B][COLOR white]LEGENDADO[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/w1280/gSzFZXfSrszRwqhBmyjWif8Bhm5.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/ohqTNoA6pYzTXookp8UXNWQlAgY.jpg</fanart></item>
+<item>	<title>[B][COLOR=goldenrod]O Protetor 2[/COLOR][/B]</title>	<meta>	<imdb>tt3766354</imdb>	<content>movie</content>	<title>O Protetor 2</title>	<year>2018</year>	</meta>	<link>	<sublink>([B][COLOR white]DUBLADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/w1280/cQvc9N6JiMVKqol3wcYrGshsIdZ.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/yonslm3ahbmY1egZOOsaBhBfW51.jpg</fanart></item>
+<item>	<title>[B][COLOR=goldenrod]Mamma Mia! Lá Vamos Nós de Novo[/COLOR][/B]</title>	<meta>	<imdb>tt6911608</imdb>	<content>movie</content>	<title>Mamma Mia! Lá Vamos Nós de Novo</title>	<year>2018</year>	</meta>	<link>	<sublink>([B][COLOR white]DUBLADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/w1280/vRtfeh0owX4oNGzcCcoJssvCcWQ.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/8HKwxHZ23sW8wz4yb28IWnAM1M6.jpg</fanart></item>
+<item>	<title>[B][COLOR=goldenrod]Próxima Parada: Apocalipse[/COLOR][/B]</title>	<meta>	<imdb>tt5246700</imdb>	<content>movie</content>	<title>Próxima Parada: Apocalipse</title>	<year>2018</year>	</meta>	<link>	<sublink>https://cometa.top/player3/serverf4player.php?vid=PRXMPRDAPCLPSE([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/original/dGZL6dEhKAVyOgLn3TS1gIVMLmx.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/fA3cgNop3193nWlDDgVk9JhCai9.jpg</fanart></item>
+<item>	<title>[B][COLOR=goldenrod]Siberia[/COLOR][/B]</title>	<meta>	<imdb>tt6494418</imdb>	<content>movie</content>	<title>Siberia</title>	<year>2018</year>	</meta>	<link>	<sublink>([B][COLOR white]DUBLADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	<sublink>https://cometa.top/player3/serverf4player.php?vid=SBRIALEG([B][COLOR white]LEGENDADO[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/w1280/eGfIsvdrUhTlQOkxQIELU7obDYj.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/3RSPY10KWQsMJKtNUzhKNZZQxL9.jpg</fanart></item>
+<item>	<title>[B][COLOR=goldenrod]Occupation[/COLOR][/B]</title>	<meta>	<imdb>tt6774786</imdb>	<content>movie</content>	<title>Occupation</title>	<year>2018</year>	</meta>	<link>	<sublink>([B][COLOR white]DUBLADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	<sublink>https://cometa.top/player3/serverf4player.php?vid=OCPTONLEG([B][COLOR white]LEGENDADO[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/w1280/hr7MFQAmP30IJZP2FXKhPKbe8IW.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/4ox2exVEAqxv0DdLa0vqlqQpP2O.jpg</fanart></item>
+<item>	<title>[B][COLOR=goldenrod]Arranha-Céu: Coragem Sem Limite[/COLOR][/B]</title>	<meta>	<imdb>tt5758778</imdb>	<content>movie</content>	<title>Arranha-Céu: Coragem Sem Limite</title>	<year>2018</year>	</meta>	<link>	<sublink>([B][COLOR white]DUBLADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	<sublink>http://gofilmes.me/play/?QzB5RExvVkd5bnBxUjdtdGp0WGc3YTZRRkFaRDNWQ01OckgzemI0OURoTERKVVZzNnhMMndYSXBMTTZ0Vks1K1V6NTZpS2Y3RHZlbVp6RWJCaWxKQWc9PQ==([B][COLOR white]LEGENDADO[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/w1280/naTF5Ae9PpRePJHTAWhbRKiLoKN.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/oMKFQmoVgB69fyXfSMu0lGlHJP2.jpg</fanart></item>
+<item>	<title>[B][COLOR=goldenrod]Homem-Formiga e a Vespa[/COLOR][/B]</title>	<meta>	<imdb>tt5095030</imdb>	<content>movie</content>	<title>Homem-Formiga e a Vespa</title>	<year>2018</year>	</meta>	<link>	<sublink>([B][COLOR white]DUBLADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/original/azH25XpelbpzSEg8JoQVJQsFNF7.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/6P3c80EOm7BodndGBUAJHHsHKrp.jpg</fanart></item>
+<item>	<title>[B][COLOR=goldenrod]A Primeira Noite de Crime[/COLOR][/B]</title>	<meta>	<imdb>tt6133466</imdb>	<content>movie</content>	<title>A Primeira Noite de Crime</title>	<year>2018</year>	</meta>	<link>	<sublink>([B][COLOR white]DUBLADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	<sublink>https://drive.google.com/file/d/1JCPdpVAVEbUgKbxUQtrukCcwZ_24q0ex/preview([B][COLOR white]LEGENDADO[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/w1280/2slvblTroiT1lY9bYLK7Amigo1k.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/dnaitaoCh8MftfYEVnprcuYExZp.jpg</fanart></item>
+<item>	<title>[B][COLOR=goldenrod]Hotel Transilvânia 3: Férias Monstruosas[/COLOR][/B]</title>	<meta>	<imdb>tt5220122</imdb>	<content>movie</content>	<title>Hotel Transilvânia 3: Férias Monstruosas</title>	<year>2018</year>	</meta>	<link>	<sublink>([B][COLOR white]DUBLADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/w1280/6iVf9DkIUQA8do5ztnQjR0DbAzQ.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/m03jul0YdVEOFXEQVUv6pOVQYGL.jpg</fanart></item>
+<item>	<title>[B][COLOR=goldenrod]Sicário: Dia do Soldado[/COLOR][/B]</title>	<meta>	<imdb>tt5052474</imdb>	<content>movie</content>	<title>Sicário: Dia do Soldado</title>	<year>2018</year>	</meta>	<link>	<sublink>https://my.mail.ru/video/embed/8993950066611847239([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>	<sublink>https://my.mail.ru/video/embed/8993950066611847220([B][COLOR white]LEGENDADO[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/w1280/OdD7A0LgLXPjqzmfcEl9sTYVPo.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/urMfgRUk0Kmf5p0KEJopAlqcyXm.jpg</fanart></item>
+<item>	<title>[B][COLOR=goldenrod]Tau[/COLOR][/B]</title>	<meta>	<imdb>tt4357394</imdb>	<content>movie</content>	<title>Tau</title>	<year>2018</year>	</meta>	<link>	<sublink>https://cometa.top/player3/serverf4player.php?vid=TAU([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/w1280/qqYOlCee3X7cKg05EOQH1htcHmy.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/b6Eiab3GzmO58y1ixxr2coA43Nd.jpg</fanart></item>
+<item>	<title>[B][COLOR=goldenrod]Os Incríveis 2[/COLOR][/B]</title>	<meta>	<imdb>tt3606756</imdb>	<content>movie</content>	<title>Os Incríveis 2</title>	<year>2018</year>	</meta>	<link>	<sublink>([B][COLOR white]DUBLADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/w1280/y3EEb7o6NxK0pl0WsOswCos663y.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/mabuNsGJgRuCTuGqjFkWe1xdu19.jpg</fanart></item>
+<item>	<title>[B][COLOR=goldenrod]Te Peguei![/COLOR][/B]</title>	<meta>	<imdb>tt2854926</imdb>	<content>movie</content>	<title>Te Peguei!</title>	<year>2018</year>	</meta>	<link>	<sublink>https://cometa.top/player3/serverf4plyer.php?vid=TEPGUE([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/w1280/eXXpuW2xaq5Aen9N5prFlARVIvr.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/yRXzrwLfB5tDTIA3lSU9S3N9RUK.jpg</fanart></item>
+<item>	<title>[B][COLOR=goldenrod]2036 Origem Desconhecida[/COLOR][/B]</title>	<meta>	<imdb>tt4575328</imdb>	<content>movie</content>	<title>2036 Origem Desconhecida</title>	<year>2018</year>	</meta>	<link>	<sublink>([B][COLOR white]DUBLADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	<sublink>https://drive.google.com/file/d/1SB9k8qgvGJA3ZCyyF0YS04f1yV0kTNJZ/preview([B][COLOR white]LEGENDADO[/COLOR][/B])</sublink>	<sublink>http://network.vstreaming.net/movies/2036-leg-720p.mp4([B][COLOR white]LEGENDADO[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/w1280/v3StJTYXbU3OZ26Vh1PbczqfyCD.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/4Bq50yeN11BMXTr2xNjak84nWaA.jpg</fanart></item>
+<item>	<title>[B][COLOR=goldenrod]Oito Mulheres e um Segredo[/COLOR][/B]</title>	<meta>	<imdb>tt5164214</imdb>	<content>movie</content>	<title>Oito Mulheres e um Segredo</title>	<year>2018</year>	</meta>	<link>	<sublink>https://cometa.top/player3/serverf4player.php?vid=OITOMLHRSEUMSGRDO([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>	<sublink>http://earnings.maybeup.net/movies/oceans8-dub-1080p.mp4([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>	<sublink>http://earnings.maybeup.net/movies/oceans8-leg-1080p.mp4([B][COLOR white]LEGENDADO[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/w1280/mymTjvZeg9hkSSofg78nH0GOtLS.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/zBIfBeStaDdDdhBrSx8InhgFUVa.jpg</fanart></item>
+<item>	<title>[B][COLOR=goldenrod]Jurassic World: Reino Ameaçado[/COLOR][/B]</title>	<meta>	<imdb>tt4881806</imdb>	<content>movie</content>	<title>Jurassic World: Reino Ameaçado</title>	<year>2018</year>	</meta>	<link>	<sublink>([B][COLOR white]DUBLADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	<sublink>https://cometa.top/player3/serverf4player.php?vid=JRSCWRLDRNOAMCDOLEG ([B][COLOR white]LEGENDADO[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/w1280/5PWRDsozYR1VeExrFLqZ8Qpw07m.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/3s9O5af2xWKWR5JzP2iJZpZeQQg.jpg</fanart></item>
+<item>	<title>[B][COLOR=goldenrod]Rota de Fuga 2: Hades[/COLOR][/B]</title>	<meta>	<imdb>tt6513656</imdb>	<content>movie</content>	<title>Rota de Fuga 2: Hades</title>	<year>2018</year>	</meta>	<link>	<sublink>https://cometa.top/player3/serverf4player.php?vid=RTADFGA2LEG([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/w1280/cNK4ugSqah0vvBBgQy1moKZ6xi.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/xIAaN3AQqaJiN5RJ0WsmBady8Hq.jpg</fanart></item>
+<item>	<title>[B][COLOR=goldenrod]Hereditário[/COLOR][/B]</title>	<meta>	<imdb>tt7784604</imdb>	<content>movie</content>	<title>Hereditário</title>	<year>2018</year>	</meta>	<link>	<sublink>https://cometa.top/player3/serverf4player.php?vid=HRDTRIO([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/w1280/wxnaxTnJhXeqn12xeuhE8ZgjJQB.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/yVWiOMpzf7gullGvug83r7gMdha.jpg</fanart></item>
+<item>	<title>[B][COLOR=goldenrod]211 - O Grande Assalto[/COLOR][/B]</title>	<meta>	<imdb>tt4976192</imdb>	<content>movie</content>	<title>211 - O Grande Assalto</title>	<year>2018</year>	</meta>	<link>	<sublink>https://cometa.top/player3/serverf4player.php?vid=211OGRNDASLTO([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>	<sublink>http://network.vstreaming.net/movies/211ograndeassalto-dub-720p.mp4([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>	<sublink>https://drive.google.com/file/d/1zO_ZMNww4mV0nzJmxz_H7Y-XM5KTqDoh/preview([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>	<sublink>https://drive.google.com/file/d/1Q189AJ10dP-xVuIiZqmpgfw36_sLntHQ/preview([B][COLOR white]LEGENDADO[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/w1280/81RColr4rau6DZ7z9eMsksokcfk.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/7eTWQb475pM9H3NEOiUzGYASEx0.jpg</fanart></item>
+<item>	<title>[B][COLOR=goldenrod]The Yellow Birds[/COLOR][/B]</title>	<meta>	<imdb>tt3739110</imdb>	<content>movie</content>	<title>The Yellow Birds</title>	<year>2018</year>	</meta>	<link>	<sublink>([B][COLOR white]DUBLADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/w1280/rCJwKafIkkt1Z0sMhhJWGox99hB.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/3TU2qPRRrNmZkVAF12kWJBSkOPq.jpg</fanart></item>
+<item>	<title>[B][COLOR=goldenrod]Han Solo: Uma História Star Wars[/COLOR][/B]</title>	<meta>	<imdb>tt3778644</imdb>	<content>movie</content>	<title>Han Solo: Uma História Star Wars</title>	<year>2018</year>	</meta>	<link>	<sublink>https://cometa.top/player3/serverf4player.php?vid=HANSLOUHSTSTRWRS([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>	<sublink>https://cometa.top/player3/serverf4player.php?vid=HANSLOUHSTSTRWRSLEG([B][COLOR white]LEGENDADO[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/w1280/lJChjsNR7O1waqsOIqlkePoGtZJ.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/7LZ0K4FsALrt7OeNIGOVLNuKQRU.jpg</fanart></item>
+<item>	<title>[B][COLOR=goldenrod]Fahrenheit 451[/COLOR][/B]</title>	<meta>	<imdb>tt0360556</imdb>	<content>movie</content>	<title>Fahrenheit 451</title>	<year>2018</year>	</meta>	<link>	<sublink>https://cometa.top/player3/serverf4player.php?vid=FAHRNHT451([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/w1280/urH9H50gKbUK8U6qTVd89SLQPjx.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/7oy4miyq4WYYy0xtX6lbNVPrEsr.jpg</fanart></item>
+<item>	<title>[B][COLOR=goldenrod]Black Water[/COLOR][/B]</title>	<meta>	<imdb>tt5622412</imdb>	<content>movie</content>	<title>Black Water</title>	<year>2018</year>	</meta>	<link>	<sublink>([B][COLOR white]DUBLADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	<sublink>https://cometa.top/player3/serverf4player.php?vid=BLCKWTRLEG([B][COLOR white]LEGENDADO[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/w1280/tIcZAB5AmRN8fIDXfDZ2aUok9qa.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/byFf3OQceVbtHplvql7W1JmNJhU.jpg</fanart></item>
+<item>	<title>[B][COLOR=goldenrod]Deadpool 2[/COLOR][/B]</title>	<meta>	<imdb>tt5463162</imdb>	<content>movie</content>	<title>Deadpool 2</title>	<year>2018</year>	</meta>	<link>	<sublink>https://www.rapidvideo.com/embed/FUL8LO92H5([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>	<sublink>https://cometa.top/player3/serverf4player.php?vid=DEADP2([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>	<sublink>https://cometa.top/player3/serverf4player.php?vid=DEADP2LEG([B][COLOR white]LEGENDADO[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/w1280/oCBq1lqg9Q1PwvVediz8Lq7k6jj.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/1CzUuIdalmARzfYyEX3vGmBy6dn.jpg</fanart></item>
+<item>	<title>[B][COLOR=goldenrod]A Barraca do Beijo[/COLOR][/B]</title>	<meta>	<imdb>tt3799232</imdb>	<content>movie</content>	<title>A Barraca do Beijo</title>	<year>2018</year>	</meta>	<link>	<sublink>https://cometa.top/player3/serverf4player.php?vid=ABARCDBJ([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/w1280/7Dktk2ST6aL8h9Oe5rpk903VLhx.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/xEKx7zPEjN6meomZ7OhV82Mm2jm.jpg</fanart></item>
+<item>	<title>[B][COLOR=goldenrod]Terminal: A Vingança Perfeita[/COLOR][/B]</title>	<meta>	<imdb>tt4463816</imdb>	<content>movie</content>	<title>A Vingança Perfeita</title>	<year>2018</year>	</meta>	<link>	<sublink>https://cometa.top/player3/serverf4player.php?vid=AVNGCPRFTA([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/w1280/rfshkd4jotXFIbmJirYpgxzpdCR.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/bwvxvrHH3nTbcwpEcJhA72kkI94.jpg</fanart></item>
+<item>	<title>[B][COLOR=goldenrod]Tully[/COLOR][/B]</title>	<meta>	<imdb>tt5610554</imdb>	<content>movie</content>	<title>Tully</title>	<year>2018</year>	</meta>	<link>	<sublink>https://cometa.top/player3/serverf4player.php?vid=TULY([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>	<sublink>https://cometa.top/player3/serverf4player.php?vid=TULYLEG([B][COLOR white]LEGENDADO[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/w1280/wDI4YXBXolMYi15Qx2kClvdSERM.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/h4Z6IUpTyD9ViV7NLmbAEbgM1G0.jpg</fanart></item>
+<item>	<title>[B][COLOR=goldenrod]Homem ao Mar[/COLOR][/B]</title>	<meta>	<imdb>tt1563742</imdb>	<content>movie</content>	<title>Homem ao Mar</title>	<year>2018</year>	</meta>	<link>	<sublink>https://cometa.top/player3/serverf4player.php?vid=HMNAOMAR([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>	<sublink>https://cometa.top/player3/serverf4player.php?vid=OVRBRDLEG([B][COLOR white]LEGENDADO[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/w1280/qauHzSQJdo9VYX4NKn9PdWnvXOV.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/1c9UOyJP0FnhhdNoEvhI3ODcE3i.jpg</fanart></item>
+<item>	<title>[B][COLOR=goldenrod]Vingadores: Guerra Infinita[/COLOR][/B]</title>	<meta>	<imdb>tt4154756</imdb>	<content>movie</content>	<title>Vingadores: Guerra Infinita</title>	<year>2018</year>	</meta>	<link>	<sublink>https://my.mail.ru/video/embed/7580631639810638208([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>	<sublink>https://cometa.top/player3/serverf4player.php?vid=VNGDRSGRAINFNT([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>	<sublink>https://cometa.top/player3/serverf4player.php?vid=VNGDRSGRAINFNTLEG([B][COLOR white]LEGENDADO[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/w1280/rkHe0BfOo1f5N2q6rxgdYac7Zf6.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/bOGkgRGdhrBYJSLpXaxhXVstddV.jpg</fanart></item>
+<item>	<title>[B][COLOR=goldenrod]Traffik[/COLOR][/B]</title>	<meta>	<imdb>tt5670152</imdb>	<content>movie</content>	<title>Traffik</title>	<year>2018</year>	</meta>	<link>	<sublink>([B][COLOR white]DUBLADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])sublink>	<sublink>https://cometa.top/player3/serverf4player.php?vid=TRFKLEG([B][COLOR white]LEGENDADO[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/w1280/ubSpsYP3WqljVPVSX2FbBNYZoR1.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/wbk9VvJ8lkUF0ElpfRm3dFIzMJf.jpg</fanart></item>
+<item>	<title>[B][COLOR=goldenrod]Sexy por Acidente[/COLOR][/B]</title>	<meta>	<imdb>tt6791096</imdb>	<content>movie</content>	<title>Sexy por Acidente</title>	<year>2018</year>	</meta>	<link>	<sublink>https://cometa.top/player3/serverf4player.php?vid=SXYPRACDNTE([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>	<sublink>https://cometa.top/player3/serverf4player.php?vid=SXYPRACDNTELEG([B][COLOR white]LEGENDADO[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/w1280/zAVxVGlxWFOV9ae4hPh9eau2PDk.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/3Zb4Du20mvKl0jlOtQ6lCFhpiiT.jpg</fanart></item>
+<item>	<title>[B][COLOR=goldenrod]Do Fundo do Mar 2[/COLOR][/B]</title>	<meta>	<imdb>tt7086706</imdb>	<content>movie</content>	<title>Do Fundo do Mar 2</title>	<year>2018</year>	</meta>	<link>	<sublink>https://cometa.top/player3/serverf4player.php?vid=DOFNDMR2([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/w1280/xqjAHXMJLORx9vVsCTJ6ZPJcr3D.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/5UKLqsKJIhouJPVr8AQSTuh7S4n.jpg</fanart></item>
+<item>	<title>[B][COLOR=goldenrod]Eu Não Sou um Homem Fácil[/COLOR][/B]</title>	<meta>	<imdb>tt6857988</imdb>	<content>movie</content>	<title>Eu Não Sou um Homem Fácil</title>	<year>2018</year>	</meta>	<link>	<sublink>https://cometa.top/player3/serverf4player.php?vid=EUNSOUMHMNFCL([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/w1280/jnAtRqnP4mVZZmrJd2AOtU6t1zu.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/l6V9uWgQPz2kReUFYbfNUpPO1R3.jpg</fanart></item>
+<item>	<title>[B][COLOR=goldenrod]Rampage: Destruição Total[/COLOR][/B]</title>	<meta>	<imdb>tt2231461</imdb>	<content>movie</content>	<title>Rampage: Destruição Total</title>	<year>2018</year>	</meta>	<link>	<sublink>https://cometa.top/player3/serverf4player.php?vid=RMPGEDSTRCAOTL([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/w1280/yeRW8JhHqQznEdOUe97dLWnyeEq.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/wrqUiMXttHE4UBFMhLHlN601MZh.jpg</fanart></item><item>	<title>[B][COLOR=goldenrod]Verdade ou Desafio?[/COLOR][/B]</title>	<meta>	<imdb>tt6772950</imdb>	<content>movie</content>	<title>Verdade ou Desafio</title>	<year>2018</year>	</meta>	<link>	<sublink>https://cometa.top/player3/serverf4player.php?vid=VRDAOUDSFIO([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>	<sublink>http://earnings.maybeup.net/movies/verdadeoudesafio-dub-1080p.mp4([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>	<sublink>https://cometa.top/player3/serverf4player.php?vid=VRDAOUDSFIOLEG([B][COLOR white]LEGENDADO[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/w1280/oEIeZE4oBSTKjBMxQWNdGdI13a0.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/eQ5xu2pQ5Kergubto5PbbUzey28.jpg</fanart></item>
+############################################################################### PAGINA 2 ########################################################################
+<item>
+	<title>[B][COLOR=goldenrod]PLOEY: Você Nunca Voará Sozinho[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt2766104</imdb>
+	<content>movie</content>
+	<title>PLOEY: Você Nunca Voará Sozinho</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=PLOYVCNCVORSO([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/pETx5wk2p4myLwHpNKLR62hH6x8.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/m0dN5PT03R8QrflL0LV2dMU6ftj.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]Beirute[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt4669264</imdb>
+	<content>movie</content>
+	<title>Beirute</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=BEITE([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=BEITELEG([B][COLOR white]LEGENDADO[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/s2qIeFsI9TskZr1LkSwljQDh5nl.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/2nLOJ8gtattGzYzwlYM8PrcgknH.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]Um Lugar Silencioso[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt6644200</imdb>
+	<content>movie</content>
+	<title>Um Lugar Silencioso</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=UMLGRSLNCOSO([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/70XFvmFRrdVxAjne5f3ItwRBtuQ.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/roYyPiQDQKmIKUEhO912693tSja.jpg</fanart>
+</item>
+<item>	<title>[B][COLOR=goldenrod]Deus Não Está Morto: Uma Luz na Escuridão[/COLOR][/B]</title>	<meta>	<imdb>tt6652708</imdb>	<content>movie</content>	<title>Deus Não Está Morto: Uma Luz na Escuridão</title>	<year>2018</year>	</meta>	<link>	<sublink>https://cometa.top/player3/serverf4player.php?vid=DSNESTMRTUMLCNESCDAOLEG([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/w1280/rMWOo7Y0ntOkNuMk2svZxkoRb29.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/gGBE24xD5NdMqvkJJEzP04jtFG9.jpg</fanart></item>
+<item>
+	<title>[B][COLOR=goldenrod]Titã[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt4986098</imdb>
+	<content>movie</content>
+	<title>Titã</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>([B][COLOR white]DUBLADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/uZNgL1aXLdXSSTGdf9acxW7a5gR.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/h45LDCoPWmFMTTb7taGhOPBIGKJ.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]Nada a Perder[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt6910020</imdb>
+	<content>movie</content>
+	<title>Nada a Perder</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=NDAPRDR([B][COLOR white]NACIONAL[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/l1XGiS2tXIR4IP4bdqdmlG6Hhbd.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/x53rt95zFbCjfFidDsH6kukMiWz.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]Jogador Nº 1[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt1677720</imdb>
+	<content>movie</content>
+	<title>Jogador Nº 1</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=JGDRN1([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/9xDD53hohCMp5VoFtqNPfzTsnLJ.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/5a7lMDn3nAj2ByO0X1fg6BhUphR.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]Ilha dos Cachorros[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt5104604</imdb>
+	<content>movie</content>
+	<title>Ilha dos Cachorros</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=ILHSDSCHRRS([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/fsS7sWTsmnQmzXCH1tG4DZdRXOQ.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/5YtXsLG9ncjjFyGZjoeV31CGf01.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]Paulo, Apóstolo de Cristo[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt7388562</imdb>
+	<content>movie</content>
+	<title>Paulo, Apóstolo de Cristo</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=PALOAPSTLODCRST([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/6J8IDXJlURmOwX3KnfYitSr7QbR.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/euAMcJLG26pW1kv4kPEtVEwwroQ.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]O Aviso[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt3711510</imdb>
+	<content>movie</content>
+	<title>O Aviso</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=OAVSO([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/zhZmA5LGQyBo2lKNGwvniVm1AI3.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/1stHiWK43mKcQcp7AHqjYCoWlSH.jpg</fanart>
+</item>
+<item>	<title>[B][COLOR=goldenrod]Sol da Meia-Noite[/COLOR][/B]</title>	<meta>	<imdb>tt4799066</imdb>	<content>movie</content>	<title>Sol da Meia-Noite</title>	<year>2018</year>	</meta>	<link>	<sublink>https://cometa.top/player3/serverf4player.php?vid=SOLDMEIANTE([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/w1280/8xASMNHp0Uya1OwgWnJsGHww4WB.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/9T8sj5io4SGCBTHsk5H8LGcfKVe.jpg</fanart></item>
+<item>
+	<title>[B][COLOR=goldenrod]Distúrbio[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt7153766</imdb>
+	<content>movie</content>
+	<title>Distúrbio</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=DSTURB([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/stpJcm2a7tTPcKRYZOHSOiHe5gf.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/xj6qPnD9DIVvlhTsteXumeF2OsV.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]Círculo de Fogo: A Revolta[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt2557478</imdb>
+	<content>movie</content>
+	<title>Círculo de Fogo: A Revolta</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=CRLODEFGOARVLTA([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=CRLODEFGOARVLTALEG([B][COLOR white]LEGENDADO[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/qIWM0wgkmUlrEnYYkZ73EdNL0aX.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/6pT73ACl5N1VekdK3wQI8PLfz1E.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]Ghostland[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt6195094</imdb>
+	<content>movie</content>
+	<title>Ghostland</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>([B][COLOR white]DUBLADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/tt9YSQlArAj6849SQQJ5ryNgcJs.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/gl3RKxaM65gyrvRoG3MffTYBoo5.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]Maria Madalena[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt5360996</imdb>
+	<content>movie</content>
+	<title>Maria Madalena</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=MARMDLNA([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/fdryAyaVS9OXmqIpXoSIkeciJ2e.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/or9m7UUEITgkkJQK1m8fs93eJ9w.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]7 Dias em Entebbe[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt5466186</imdb>
+	<content>movie</content>
+	<title>7 Dias em Entebbe</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=7DIASEMENTBE([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>http://network.vstreaming.net/movies/7diasentebbe-dub-720p.mp4([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>https://my.mail.ru/video/embed/7580631639810638155([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>https://www.rapidvideo.com/e/FTGPWC1FPJ([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/cUb3r4TZoCsVrTtXFmuJxYf89D5.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/uA3aZDxNOaU2lCGlAb3ZrRTqC4N.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]Gnomeu e Julieta: O Mistério do Jardim[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt2296777</imdb>
+	<content>movie</content>
+	<title>Gnomeu e Julieta: O Mistério do Jardim</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=SHRLCKGNMSEOMSTRODJRDM([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/epvRtYmscoCPEQ4DLtzr2o6TuL1.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/a8yYZd7vECN3myX8dJiXOlN2bgf.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]Não Vai Dar[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt2531344</imdb>
+	<content>movie</content>
+	<title>Não Vai Dar</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=NVAIDA([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/tSUuaJZ9phWcyYIJkavoSdeRhxd.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/bUcHY7CrYWieikW8fFkL3Dxnt4H.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]Pato Pato Ganso[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt4940416</imdb>
+	<content>movie</content>
+	<title>Pato Pato Ganso</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=PATPATGNSO([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/mBQNBF3FVW0RQCpGs6Y5wbKLSdE.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/xgt7soczqOnzIiP93QOiu4FLUe4.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]Sob a Pele do Lobo[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt6347150</imdb>
+	<content>movie</content>
+	<title>Sob a Pele do Lobo</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=SOBAPLEDOLBO([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/iPwqpdpyYz2LGw5oU1DczGrNi2.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/khM9n2RHRsmzGA5AqUHS1dHNQDK.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]Os Estranhos - Caçada Noturna[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt1285009</imdb>
+	<content>movie</content>
+	<title>Os Estranhos - Caçada Noturna</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=OSESTNHSCACDNTRNA([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/mVJDYyFdr5nxvErxX2OBxHwVgQI.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/qqdVRlVCvVWdmSBYrEHwQuC3GBd.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]Tomb Raider: A Origem[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt1365519</imdb>
+	<content>movie</content>
+	<title>Tomb Raider: A Origem</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=TMBRDRORGM([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=TMBRDRORGMLEG([B][COLOR white]LEGENDADO[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/drCrvoqka1dwGfZNA5jwAft9q2G.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/bLJTjfbZ1c5zSNiAvGYs1Uc82ir.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]Desejo de Matar[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt1137450</imdb>
+	<content>movie</content>
+	<title>Desejo de Matar</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=DESJODMTR([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/8XxQf6dUWOaozabJOezzg1MQAjM.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/uQqQvmptJLPTcWDrZXn22p7j7s3.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]Operação Red Sparrow[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt2873282</imdb>
+	<content>movie</content>
+	<title>Operação Red Sparrow</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=OPCRDSPWR([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=OPCRDSPWRLEG([B][COLOR white]LEGENDADO[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/ooeyCPepghIobLfd8bijHepSWgR.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/sGzuQYSTwJvLBc2PnuSVLHhuFeh.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]A Noite do Jogo[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt2704998</imdb>
+	<content>movie</content>
+	<title>A Noite do Jogo</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=ANTDJGO([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/fWbGZt8URdS8N4AVpTRupdBXClz.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/dj5fwtC4iFdP9j4Zeiw3GqNf0qM.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]Aniquilação[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt2798920</imdb>
+	<content>movie</content>
+	<title>Aniquilação</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=ANQLCAO([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/K2EFOnSxDaLHqBB9UpfznaIkWh.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/5zfVNTrkhMu673zma6qhFzG01ig.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]Pronto, Falei![/COLOR][/B]</title>
+	<meta>
+	<imdb>tt6948600</imdb>
+	<content>movie</content>
+	<title>Pronto, Falei!</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=PRNTFLEI([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/mQkEZMnanXLjC9i3V58EiAbzwKX.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/iTCTLiVvasXDZHVoxqFFWJOhEdL.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]Com Amor, Simon[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt5164432</imdb>
+	<content>movie</content>
+	<title>Com Amor, Simon</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=COMAMRSMN([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/qwGowTpFQTgCcByfoP2xzXVReGl.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/rqMEeajyzSF4PpJtdCB816Iz8Vr.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]Zombies[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt6878820</imdb>
+	<content>movie</content>
+	<title>Zombies</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>([B][COLOR white]DUBLADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/okTdaEgs0qdwHvqzAYOuHkmdwyI.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/qF1xJzdLOzwhizgOngwRI4sSrN7.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]Pantera Negra[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt1825683</imdb>
+	<content>movie</content>
+	<title>Pantera Negra</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=PNTRNGR([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=PNTRNGRLEG([B][COLOR white]LEGENDADO[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/8TjvIO8ZJPKrMKXEjOVGNSzuO6q.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/b6ZJZHUdMEFECvGiDpJjlfUWela.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]LEGO Super Heróis DC: The Flash[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt7877382</imdb>
+	<content>movie</content>
+	<title>LEGO Super Heróis DC: O Flash</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=LEGDCCMSSPRHRTHFLSH([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/u27j3CiMEtNdDRleYwnruQ5Ktkm.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/tkxIfhBcx5s34y0CMdz4nUY8cgH.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]Pedro Coelho[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt5117670</imdb>
+	<content>movie</content>
+	<title>Pedro Coelho</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=PDRCLHO([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/f9Yp41eDDrx4HxFKW8vt9xKPobB.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/e9dVo1OXZL6sWinc9uIS0Foo4QG.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]O Paradoxo Cloverfield[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt2548396</imdb>
+	<content>movie</content>
+	<title>O Paradoxo Cloverfield</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=OPRDXOCLVRFLD([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/fnLYDFrOu7WLfEtovAMDdp9Ejqk.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/lX4jScWnurasu6Kxuqo9819mjM2.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]A Maldição da Casa Winchester[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt1072748</imdb>
+	<content>movie</content>
+	<title>A Maldição da Casa Winchester</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=AMLDCDCSWNCHSTR([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/oMS8uz4DrQoP2OU0MHr7KGFdpww.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/d4wnMDSrQonB9iArMzd90WqaoJ4.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]Perigo na Montanha[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt5001754</imdb>
+	<content>movie</content>
+	<title>Perigo na Montanha</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=PRGONMONTN([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/q8CJj6zMwi53yxojscnVmhMKYKb.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/oTXIEUqVqGTtdpaNEaC8cJwDtfs.jpg</fanart>
+</item>
+<item>	<title>[B][COLOR=goldenrod]No Olho do Furacão[/COLOR][/B]</title>	<meta>	<imdb>tt5360952</imdb>	<content>movie</content>	<title>No Olho do Furacão</title>	<year>2018</year>	</meta>	<link>	<sublink>https://cometa.top/player3/serverf4player.php?vid=NOLHDOFRCAO([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>	</link>	<thumbnail>https://image.tmdb.org/t/p/w1280/5z7L6rDFOPaEVjujZetXw01vHAS.jpg</thumbnail>	<fanart>https://image.tmdb.org/t/p/w1280/3ZQRLuXNTbewOHDfxF51fy74gh4.jpg</fanart></item>
+<item>
+	<title>[B][COLOR=goldenrod]Corrida Mortal 4: Além da Anarquia[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt3807900</imdb>
+	<content>movie</content>
+	<title>Corrida Mortal 4: Além da Anarquia</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>([B][COLOR white]DUBLADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/1PrlKvPUbDQAqFQBCyyt68hLLl.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/W8V8d9bjLZURgEGbIB5TC70yaj.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]Vingança[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt6738136</imdb>
+	<content>movie</content>
+	<title>Vingança</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>([B][COLOR white]DUBLADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/5ya9O1CVLHhr8vwRn7AFIvy8VA9.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/69RWfbPkGJKX231qorPebXznTAV.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]Para Sempre Minha Garota[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt4103724</imdb>
+	<content>movie</content>
+	<title>Para Sempre Minha Garota</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>([B][COLOR white]DUBLADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/hcushpAgo51nTpBAuTygLxiJ80h.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/tUJTaWlDbdC5kTov5zFVCWfCzGO.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]Tudo que Quero[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt4652650</imdb>
+	<content>movie</content>
+	<title>Tudo que Quero</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>([B][COLOR white]DUBLADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/9pFQR2CcOMY9n7KFjq1j27nh5d1.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/oSS43fHkamqQzgqXVOUD9q6Hq4V.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]O Homem das Cavernas[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt4701724</imdb>
+	<content>movie</content>
+	<title>O Homem das Cavernas</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=OHMNDSCVNS([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/o8dMhhcO92QhGlMy7eROcZjjphJ.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/9m71RMP45mg599xtKPyjicyHn1a.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]A Vizinha[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt3905764</imdb>
+	<content>movie</content>
+	<title>A Vizinha</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>([B][COLOR white]DUBLADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/jvv66k53knzs49wnzaOZjOPYj4r.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/vFzChYHJ00kdGhe7Io7Gk53ofKa.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]As Calouras[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt5292624</imdb>
+	<content>movie</content>
+	<title>As Calouras</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=ASCLRS([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/lmW9vbHrNEWNdqLoyImeJ7wuVWD.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/cUh0QRrtPLWYHZyw6VpsMijOkhT.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]Eu Mato Gigantes[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt4547194</imdb>
+	<content>movie</content>
+	<title>Eu Mato Gigantes</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>([B][COLOR white]DUBLADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=EUMTGIGNTSLEG([B][COLOR white]LEGENDADO[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/cvit6HDbXHE6W5kGPd47jd0wthQ.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/lffgWEBiLf9DbDdb86WsGsEcWTg.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]A Caminho da Fé[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt1690967</imdb>
+	<content>movie</content>
+	<title>A Caminho da Fé</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=ACMNHDFE([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/gxNhSzLfWXmInaidgSp57ww5WoG.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/vIZrKlcDYZTfYcp60H0YwW2MISV.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]Mãe e Pai[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt5462326</imdb>
+	<content>movie</content>
+	<title>Mãe e Pai</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=MAEPAI([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/fSaeahvo1GU7v4W6CX2y0j7fxMG.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/3Fji9IjNQcXm7Dh0u4igJXTgeHZ.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]Vende-se Está Casa[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt7608028</imdb>
+	<content>movie</content>
+	<title>Vende-se Está Casa</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=VNDSESTCSA([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/tAcsTHfzYwxe0QkarzHqNfnqvxa.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/aDmXiKzMCrc4uyQifPTWCJ2vBuc.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]Covil de Ladrões[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt1259528</imdb>
+	<content>movie</content>
+	<title>Covil de Ladrões</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=CVLDLDRS([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/a3HAaPWkqQGfVz3Sn9ynE3t2t93.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/s3FDBLH4qc1IcjexB05Qvbn3wxO.jpg</fanart>
+</item>
+###################################################################################### PAGINA 3 ##########################################################
+<item>
+	<title>[B][COLOR=goldenrod]Cinquenta Tons de Liberdade[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt4477536</imdb>
+	<content>movie</content>
+	<title>Cinquenta Tons de Liberdade</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=CQNTTNSDLRBDS([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=CQNTTNSDLRBDSLEG([B][COLOR white]LEGENDADO[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/hxKe6ipWT4Ib0icn0IoS4X1gnr4.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/9ywA15OAiwjSTvg3cBs9B7kOCBF.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]15h17 - Trem Para Paris[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt6802308</imdb>
+	<content>movie</content>
+	<title>15h17 - Trem Para Paris</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=15H17TRMPRPRS([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>http://network.vstreaming.net/movies/15h17tremparaparis-dub-720p.mp4([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/zYf02uVwiXdUEQVX9TuIizQIdHA.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/wybwzeZ7mQDftmmrxOhcht35Qij.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]12 Heróis[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt1413492</imdb>
+	<content>movie</content>
+	<title>12 Heróis</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=12HERS([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>http://network.vstreaming.net/movies/12strong-leg-720p.mp4([B][COLOR white]LEGENDADO[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/xiiyh02DvmfoIJYZFHE3CJren50.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/x5EUEv1N9g4BCX9GQXKvv3nqMVo.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]Atos de Violência[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt6684714</imdb>
+	<content>movie</content>
+	<title>Atos de Violência</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=ATSDVIOLNC([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/6TycIVmSMTeSNVN3InQQzcYWVCz.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/pNsRxhhO7TZ7MMYk44anDVJ3eAG.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]The Post: A Guerra Secreta[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt6294822</imdb>
+	<content>movie</content>
+	<title>The Post: A Guerra Secreta</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=THEPSTAGRASCRT([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/gNfNxH4fsc9cGtS39RLOzEvJoXV.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/h5jqLrIv1tlszezv2UEWq9KBuoj.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]O Passageiro[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt1590193</imdb>
+	<content>movie</content>
+	<title>O Passageiro</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=OPSGRO([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/16iFT1MLae2zoDTRTeOqx0w5OUv.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/clmYuR1t4TtKcakIOvYIPrjyxDc.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]Maze Runner: A Cura Mortal[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt4500922</imdb>
+	<content>movie</content>
+	<title>Maze Runner: A Cura Mortal</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=MAZRNERACRMRTL([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/4H1vAQHD1rojw3cq1VZ3THoRJ6k.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/bvbyidkMaBls1LTaIWYY6UmYTaL.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]Sobrenatural: A Última Chave[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt5726086</imdb>
+	<content>movie</content>
+	<title>Sobrenatural: A Última Chave</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://cometa.top/player3/serverf4player.php?vid=SBNTLAULTMCHV([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]LEGENDADO[/COLOR] | [COLOR darkred]INDISPONÍVEL[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/lViIT2Orn2Uu4iJwJzfl6UrrLjS.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/PwI3EfasE9fVuXsmMu9ffJh0Re.jpg</fanart>
+</item>
+</xml>
