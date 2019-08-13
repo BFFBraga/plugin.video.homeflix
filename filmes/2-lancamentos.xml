@@ -63,7 +63,21 @@
 	<thumbnail>https://image.tmdb.org/t/p/original/hVgLHgnsO46oSHJy5I4ekhqtoYv.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/original/10csMIye4Vmr5lJpx3cdmMN8FOT.jpg</fanart>
 </item>
-
+<item>
+	<title>[B][COLOR=goldenrod]Aquaman[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt1477834</imdb>
+	<content>movie</content>
+	<title>Aquaman</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://lh3.googleusercontent.com/0_w8bwqPMLzSaT3Xc7zg6pT10YM4WycKU_1eplgap1XP26hQ8LgN4Of67B2MMGPgA4Mj1RAm7GSsyror6MR-KnG2qP3Nbb5MJJhhj8gVTO8FWWd0dBroifLwhf5W8saa_dp-6KlrBA=m37([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>https://lh3.googleusercontent.com/JD6k5-c1lUQkGWyQoJgjEwUR22iV5WCO2eIN3LkGF2MBVmtKcm4AdSq8Z_bfAF11Y15SdUGlzWX9LfPlaDms9Wvduyo76NLCNE1QXnNNST1kr98yFEEnBrNsQtErn7aEq98B-EXAnw=m37([B][COLOR white]LEGENDADO[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/original/4CKtfsbNqAf0uDfpLfKQyig6SDu.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/skauHPLA4so9PqOuu3jhWmiWnFd.jpg</fanart>
+</item>
 <item>
 	<title>[B][COLOR=goldenrod]WiFi Ralph: Quebrando a Internet[/COLOR][/B]</title>
 	<meta>
