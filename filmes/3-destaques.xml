@@ -109,5 +109,19 @@
 	<thumbnail>https://image.tmdb.org/t/p/original/fw02ONlDhrYjTSZV8XO6hhU3ds3.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/original/17nDJQsGVim6oows2TlN98UacbO.jpg</fanart>
 </item>
-
+<item>
+	<title>[B][COLOR=goldenrod]Animais Fantásticos: Os Crimes de Grindelwald[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt4123430</imdb>
+	<content>movie</content>
+	<title>Fantastic Beasts: The Crimes of Grindelwald</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://lh3.googleusercontent.com/sX8MVC0PvwnR0SEf5VSaWf23namePtPjxH2iLkOzqQe07npKDZu46tjpwseqZqGRCAReWD4feSKst6L5ZdFw1T4sf7rGLOJsk76OpaoI6syHTOPO13SFp0UQfu2dR4IywH5kg5LW3w=m37([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>https://lh3.googleusercontent.com/soGc7GYAXGFtV7lRWhUIPsKKoOv0aWJvfDVnaoHN_4DZTfQy67K5c7d6SKx4TUCqizzx_-pA0QQn8yJ0P_o-zuYfXoUfYP8y1-rBwTH9gCyBErul0XQEcPaGBareoCwph-po1n_EsQ=m37([B][COLOR white]LEGENDADO[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/original/dcIfTb2nNWnyV9WHL2jh0HEjNw2.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/heyvaoVLGC8lcB4FFoz65EBI8xF.jpg</fanart>
+</item>
 </xml>
