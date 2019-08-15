@@ -155,4 +155,20 @@
 	<thumbnail>https://image.tmdb.org/t/p/original/dcIfTb2nNWnyV9WHL2jh0HEjNw2.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/original/heyvaoVLGC8lcB4FFoz65EBI8xF.jpg</fanart>
 </item>
+<item>
+	<title>[B][COLOR=goldenrod]Robin Hood: A Origem[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt4532826</imdb>
+	<content>movie</content>
+	<title>Robin Hood</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://lh3.googleusercontent.com/EMJpmBKmzKfxmFEmnYPYhF8uFmz8zj6XlMVYe3QDRfaz1UFnKtWpnQglz60VJKoXwIjFJwQqTrlCGXoCwUnZuksA3evr53HjvIsHF__72-YEeiJBYKIUrZLL0ggBVRxbA0ZBkLvx0w=m37([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>https://lh3.googleusercontent.com/VvOGJ-14rkwrlqZ4Hijqrugaj969gNcHIplYq7i0FAw3mnx7i1GFzwd6EtpPSRqs5hXdTnMqKixa3L_egdNnKWoNEMJ01GSsDgKzCrYnl8XNg2dx8-NwdTfcDXlfakoh2TMg6XP0Cw=m37([B][COLOR white]LEGENDADO[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/original/sCAKx5Gx9RrKsfeYEaUJKih4yEi.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/zSJT1sKGRKcmP4I9b8dIOuepw6I.jpg</fanart>
+</item>
+
 </xml>
