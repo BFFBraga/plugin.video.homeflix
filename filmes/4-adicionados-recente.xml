@@ -1,6 +1,22 @@
 <xml version="1.0" encoding="UTF-8" standalone="yes">
 
 <item>
+	<title>[B][COLOR=goldenrod]Bohemian Rhapsody[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt1727824</imdb>
+	<content>movie</content>
+	<title>Bohemian Rhapsody</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]LEGENDADO[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]Apresentação completa no concerto Live Aid[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/original/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/jNUpYq2jRSwQM89vST9yQZelMSu.jpg</fanart>
+</item>
+<item>
 	<title>[B][COLOR=goldenrod]Homem-Formiga e a Vespa[/COLOR][/B]</title>
 	<meta>
 	<imdb>tt5095030</imdb>
@@ -169,6 +185,21 @@
 	</link>
 	<thumbnail>https://image.tmdb.org/t/p/original/sCAKx5Gx9RrKsfeYEaUJKih4yEi.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/original/zSJT1sKGRKcmP4I9b8dIOuepw6I.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]Han Solo: Uma História Star Wars[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt3778644</imdb>
+	<content>movie</content>
+	<title>Han Solo: Uma História Star Wars</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>https://drive.google.com/file/d/1MN-8JYLMS-4Z1OBlAkDZAMC9h0xSrYzJ/preview([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>https://lh3.googleusercontent.com/5Vr46nbmVQh36728brRVkAUHQEg4OCtUvnPoJHcLtcJ7quJBpY89GthjBgV7xaUCaX6fisCUXe8YvRCyW54ynXs-7amxbhVjUOd1WySrqXKFre1vJklv7JYMLbR7KZLUjeuz4uwLqw=m37([B][COLOR white]LEGENDADO[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/lJChjsNR7O1waqsOIqlkePoGtZJ.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/7LZ0K4FsALrt7OeNIGOVLNuKQRU.jpg</fanart>
 </item>
 
 </xml>

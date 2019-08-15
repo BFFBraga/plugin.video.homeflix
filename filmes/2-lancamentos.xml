@@ -109,7 +109,22 @@
 	<thumbnail>https://image.tmdb.org/t/p/original/sBdtAsZNVPMOOYcq8zh0XULqU9T.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/original/jnOuttTfG9KKpmOZtprC4pA1AlZ.jpg</fanart>
 </item>
-
+<item>
+	<title>[B][COLOR=goldenrod]Bohemian Rhapsody[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt1727824</imdb>
+	<content>movie</content>
+	<title>Bohemian Rhapsody</title>
+	<year>2018</year>
+	</meta>
+	<link>
+	<sublink>([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]LEGENDADO[/COLOR][/B])</sublink>
+	<sublink>([B][COLOR white]Apresentação completa no concerto Live Aid[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/original/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/jNUpYq2jRSwQM89vST9yQZelMSu.jpg</fanart>
+</item>
 <item>
 	<title>[B][COLOR=goldenrod]Bumblebee[/COLOR][/B]</title>
 	<meta>
