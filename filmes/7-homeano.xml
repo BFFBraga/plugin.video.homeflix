@@ -1,4 +1,12 @@
 <xml version="1.0" encoding="UTF-8" standalone="yes">
+
+<dir>
+<name>[B][COLOR goldenrod]2019[/COLOR][/B]</name>
+<link>https://raw.githubusercontent.com/BFFBraga/plugin.video.homeflix/master/filmes/ano/2019/2019.xml</link>
+<thumbnail>https://busying-partitions.000webhostapp.com/imagens/ano1.png</thumbnail>
+<fanart>https://busying-partitions.000webhostapp.com/imagens/fanart.jpg</fanart>
+</dir>
+
 <dir>
 <name>[B][COLOR goldenrod]2018[/COLOR][/B]</name>
 <link>#</link>
