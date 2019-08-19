@@ -1,0 +1,16 @@
+<xml version="1.0" encoding="UTF-8" standalone="yes">
+<dir>
+	<title>Temporada 1</title>
+	<meta>
+	<imdb>tt7366338</imdb>
+	<tvdb>360893</tvdb>
+	<tvshowtitle>Chernobyl</tvshowtitle>
+	<content>season</content>
+	<season>1</season>
+	<year>2019</year>
+	</meta>
+	<link>https://raw.githubusercontent.com/BFFBraga/plugin.video.homeflix/master/series/chernobyl/chernobyl-temporada-01.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/original/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/900tHlUYUkp7Ol04XFSoAaEIXcT.jpg</fanart>
+</dir>
+</xml>

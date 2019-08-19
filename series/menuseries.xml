@@ -13,7 +13,32 @@
 	<thumbnail>https://goo.gl/uf1UKK</thumbnail>
 	<fanart>https://goo.gl/xv6IUo</fanart>
 </dir>
-
+<dir>
+	<title>[B][COLOR=goldenrod]Chernobyl[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt7366338</imdb>
+	<tvdb>360893</tvdb>
+	<content>tvshow</content>
+	<tvshowtitle>Chernobyl</tvshowtitle>
+	<year>2019</year>
+	</meta>
+	<link>https://raw.githubusercontent.com/BFFBraga/plugin.video.homeflix/master/series/chernobyl/menu-chernobyl.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/original/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/900tHlUYUkp7Ol04XFSoAaEIXcT.jpg</fanart>
+</dir>
+<dir>
+	<title>[B][COLOR=goldenrod]Game Of Thrones[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt0944947</imdb>
+	<tvdb>121361</tvdb>
+	<content>tvshow</content>
+	<tvshowtitle>Game Of Thrones</tvshowtitle>
+	<year>2011</year>
+	</meta>
+	<link>https://raw.githubusercontent.com/BFFBraga/plugin.video.homeflix/master/series/game-of-thrones/menu-game-of-thrones.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/gwPSoYUHAKmdyVywgLpKKA4BjRr.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/2UrGpntyQtgunf039MErok78ZOK.jpg</fanart>
+</dir>
 <dir>
 	<title>[B][COLOR=goldenrod]The 100[/COLOR][/B]</title>
 	<meta>
@@ -27,7 +52,6 @@
 	<thumbnail>https://goo.gl/Cfw2Gq</thumbnail>
 	<fanart>https://goo.gl/cVdJGP</fanart>
 </dir>
-
 <dir>
 	<title>[B][COLOR=goldenrod]The Expanse[/COLOR][/B]</title>
 	<meta>
@@ -40,20 +64,6 @@
 	<link>https://raw.githubusercontent.com/BFFBraga/plugin.video.homeflix/master/series/the-expanse/menu-the-expanse.xml</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/prJFWxJ0x8tBPTliMjj51wgYnSK.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/beIjmWr3OBOtcWK4tKMObOIDJ1C.jpg</fanart>
-</dir>
-
-<dir>
-	<title>[B][COLOR=goldenrod]Game Of Thrones[/COLOR][/B]</title>
-	<meta>
-	<imdb>tt0944947</imdb>
-	<tvdb>121361</tvdb>
-	<content>tvshow</content>
-	<tvshowtitle>Game Of Thrones</tvshowtitle>
-	<year>2011</year>
-	</meta>
-	<link>https://raw.githubusercontent.com/BFFBraga/plugin.video.homeflix/master/series/game-of-thrones/menu-game-of-thrones.xml</link>
-	<thumbnail>https://image.tmdb.org/t/p/w1280/gwPSoYUHAKmdyVywgLpKKA4BjRr.jpg</thumbnail>
-	<fanart>https://image.tmdb.org/t/p/original/2UrGpntyQtgunf039MErok78ZOK.jpg</fanart>
 </dir>
 
 <dir>
