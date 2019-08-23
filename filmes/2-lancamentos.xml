@@ -1,17 +1,6 @@
 <xml version="1.0" encoding="UTF-8" standalone="yes">
 
 <item>
-<title>[COLOR lightskyblue]http://www.barretos.eu/player/players.php?canal=tnt[/COLOR]</title>
-<link>$doregex[cristal]|Referer=www.barretos.eu/player/players.php?canal=tnt&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0</link>
-<regex>
-<name>cristal</name>
-<expres>(?s)form>.*?href="(.*?)"</expres>
-<page>http://www.barretos.eu/player/aovivo.php?canal=tnt</page>
-</regex>
-<thumbnail>https://uploaddeimagens.com.br/images/001/725/612/thumb/2.png</thumbnail>
-</item>
-
-<item>
 	<title>[B][COLOR=goldenrod]Godzilla II: Rei dos Monstros[/COLOR][/B]</title>
 	<meta>
 	<imdb>tt3741700</imdb>
