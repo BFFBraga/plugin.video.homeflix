@@ -7,7 +7,7 @@
 <regex>
 <name>Kratos_Regex_1</name>
 <expres><![CDATA[<iframe name="Player".*?src="(.*?)".*?allowFullScreen>\s*</iframe>]]></expres>
-<page>http://www.redecanais.info/vida-dublado-2017-1080p_04a90d5df.html</page>
+<page>http://www.redecanais.xyz/vida-dublado-2017-1080p_04a90d5df.html</page>
 </regex>
 <regex>
 <name>Kratos_Regex</name>
