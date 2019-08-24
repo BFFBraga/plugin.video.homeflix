@@ -1,12 +1,6 @@
 <xml version="1.0" encoding="UTF-8" standalone="yes">
 
 <item>
-<title>[COLOR aquamarine][B]Brightburn: Filho das Trevas [/B][/COLOR]</title>
-<link>$doregex[CONEXAOPLAY]BRGBRNFLHDSTRVS.mp4|Referer=$doregex[CONEXAO]</link> 
-<regex><name>CONEXAOPLAY</name><expres>(.*?).rcf1</expres><page>https://pastebin.com/raw/s4E3z8Ny</page></regex>
-<regex><name>CONEXAO</name><expres>(.*?).rf</expres><page>https://pastebin.com/raw/s4E3z8Ny</page></regex>
-</item>	
-<item>
 	<title>[B][COLOR=goldenrod]Godzilla II: Rei dos Monstros[/COLOR][/B]</title>
 	<meta>
 	<imdb>tt3741700</imdb>
