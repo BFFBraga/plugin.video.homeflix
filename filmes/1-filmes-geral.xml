@@ -2230,6 +2230,9 @@
 	<thumbnail>https://image.tmdb.org/t/p/w1280/jnAtRqnP4mVZZmrJd2AOtU6t1zu.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/l6V9uWgQPz2kReUFYbfNUpPO1R3.jpg</fanart>
 </item>
+
+########################################################## LETRA J ##############################################################
+
 <item>
 	<title>[B][COLOR=goldenrod]Jogos Mortais: Jigsaw[/COLOR][/B]</title>
 	<meta>
@@ -2244,6 +2247,21 @@
 	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/fgdi0NDGpYvZLsKX2vGa90nLfS8.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/7Yup0zaw4AhNyw1JvyAE1EytWsq.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]John Wick 3 - Parabellum[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt6146586</imdb>
+	<content>movie</content>
+	<title>John Wick: Chapter 3 – Parabellum</title>
+	<year>2019</year>
+	</meta>
+	<link>
+	<sublink>https://lh3.googleusercontent.com/iQZe1YmFt_ffJ7TGXhrQON7A6i5tDwyH8Y6WOnu8l-RSBq8cAfDtc7OHoU4skGMSjBcCyLCC7hu0Vo7u-TVIvB2s24NM1jNXGTOWymbyf2zj9bB84fmwT3UYbxm-0qgrqUcjnVwQKg=m37([B][COLOR white]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>https://lh3.googleusercontent.com/KFAhDfE4_y2kxqmIZ9wNrQogR_kkleBjpnHRcPNNCtdO4njXr0B1NJk7ud1ypmMQho1OpL5KiTBs_flwNADDFtGlcCkPM4mQfGsKvMtxpUuHk7XCUrLURZFjVuMT3fonp9YmLaeRvg=m37([B][COLOR white]LEGENDADO[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/original/eDIxIvpBm5MsHuafEEmCQIKfG4u.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/vVpEOvdxVBP2aV166j5Xlvb5Cdc.jpg</fanart>
 </item>
 <item>
 	<title>[B][COLOR=goldenrod]John Wick: Um Novo Dia Para Matar[/COLOR][/B]</title>
@@ -2908,6 +2926,21 @@
 	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/v8q1ZJEiQ9JOOl583taFyRDRurq.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/5BxrMNGl3YDiWgHCVJu8iLQoJDM.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]MIB: Homens de Preto - Internacional[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt2283336</imdb>
+	<content>movie</content>
+	<title>Men in Black: International</title>
+	<year>2019</year>
+	</meta>
+	<link>
+	<sublink>([B][COLOR red]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>https://cometa.top/player3/serverf.php?vid=MIBHMDPRTINTERLEG([B][COLOR white]LEGENDADO[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/original/zZHWmYgPEfaw932pvnczAalHS34.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/2FYzxgLNuNVwncilzUeCGbOQzP7.jpg</fanart>
 </item>
 <item>
 	<title>[B][COLOR=goldenrod]Missão Cegonha[/COLOR][/B]</title>
@@ -5379,6 +5412,21 @@
 	</link>
 	<thumbnail>https://image.tmdb.org/t/p/w1280/6oNm06TPz2vGiPc2I52oXW3JwPS.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/w1280/askg3SMvhqEl4OL52YuvdtY40Yb.jpg</fanart>
+</item>
+<item>
+	<title>[B][COLOR=goldenrod]X-Men: Fênix Negra[/COLOR][/B]</title>
+	<meta>
+	<imdb>tt6565702</imdb>
+	<content>movie</content>
+	<title>Dark Phoenix</title>
+	<year>2019</year>
+	</meta>
+	<link>
+	<sublink>([B][COLOR red]DUBLADO[/COLOR][/B])</sublink>
+	<sublink>https://cometa.top/player3/serverf.php?vid=XMENFNXNGRALEG([B][COLOR white]LEGENDADO[/COLOR][/B])</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/original/sKacZh7L9qR5jLpSnxgxung6D4Y.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/cjRUhKyt2Jo3V1KNzc5tpPNfccG.jpg</fanart>
 </item>
 <item>
 	<title>[B][COLOR=goldenrod]WiFi Ralph: Quebrando a Internet[/COLOR][/B]</title>
