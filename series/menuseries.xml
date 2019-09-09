@@ -27,6 +27,19 @@
 	<fanart>https://image.tmdb.org/t/p/original/900tHlUYUkp7Ol04XFSoAaEIXcT.jpg</fanart>
 </dir>
 <dir>
+	<title>[B][COLOR=goldenrod]Dark[/COLOR][/B]</title>
+	<meta>
+	<content>tvshow</content>
+	<imdb>tt5753856</imdb>
+	<tvdb>334824</tvdb>
+	<tvshowtitle>Dark</tvshowtitle>
+	<year>2017</year>
+	</meta>
+	<link>https://raw.githubusercontent.com/BFFBraga/plugin.video.homeflix/master/series/dark/menu-dark.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/original/4IPFQ7gb50dEDXSML7ENtt2TiN5.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/75HgaphatW0PDI3XIHQWZUpbhn6.jpg</fanart>
+</dir>
+<dir>
 	<title>[B][COLOR=goldenrod]Game Of Thrones[/COLOR][/B]</title>
 	<meta>
 	<imdb>tt0944947</imdb>
