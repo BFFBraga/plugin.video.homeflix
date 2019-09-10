@@ -73,4 +73,19 @@
 <thumbnail>https://goo.gl/RUHgio</thumbnail>
 <fanart>https://goo.gl/gniF9Y</fanart>
 </dir>
+
+<dir>
+<name>Temporada 6</name>
+<meta>
+<content>season</content>
+<imdb>tt2661044</imdb>
+<tvdb>268592</tvdb>
+<tvshowtitle>The 100</tvshowtitle>
+<year>2019</year>
+<season>6</season>
+</meta>
+<link>https://raw.githubusercontent.com/BFFBraga/plugin.video.homeflix/master/series/the-100/the-100-temporada-06.xml</link>
+<thumbnail>https://image.tmdb.org/t/p/original/x2bR1VXiAbIQp6C8Vo9jv4F81XL.jpg</thumbnail>
+<fanart>https://goo.gl/gniF9Y</fanart>
+</dir>
 </xml>
